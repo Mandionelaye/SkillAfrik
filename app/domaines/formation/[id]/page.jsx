@@ -6,7 +6,7 @@ export async function generateMetadata({ params, searchParams }, parent) {
   const { id } = await params;
   const baseUrl = process.env.NODE_ENV === "development"
   ? "http://localhost:3000"
-  : "https://skillafrik.com";
+  : "https://skillafrik-seven.vercel.app";
 
   const title = `Formations en ${decodeURIComponent(id).replace(/-/g, " ")} - SkillAfrik`;
   const description = `Explore nos formations en ${decodeURIComponent(id).replace(/-/g, " ")}, conçues pour les jeunes africains...`;
@@ -25,7 +25,7 @@ export async function generateMetadata({ params, searchParams }, parent) {
     openGraph: {
       type: "website",
       locale: "fr_FR",
-      url: `https://skillafrik.com/domaines/formation/${decodeURIComponent(id)}`,
+      url: `https://skillafrik-seven.vercel.app/domaines/formation/${decodeURIComponent(id)}`,
       title,
       description,
       siteName: "SkillAfrik",

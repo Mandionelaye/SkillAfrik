@@ -13,7 +13,7 @@ export async function generateMetadata({ params }) {
 
     const baseUrl = process.env.NODE_ENV === "development"
   ? "http://localhost:3000"
-  : "https://skillafrik.com";
+  : "https://skillafrik-seven.vercel.app";
 
   
   const response = await fetch(`${baseUrl}/data/domaine.json`);
@@ -32,7 +32,7 @@ export async function generateMetadata({ params }) {
     openGraph: {
       type: "website",
       locale: "fr_FR",
-      url: `https://skillafrik.com/formation/${decodeURIComponent(idFormations)}`,
+      url: `https://skillafrik-seven.vercel.app/formation/${decodeURIComponent(idFormations)}`,
       title,
       description,
       siteName: "SkillAfrik",

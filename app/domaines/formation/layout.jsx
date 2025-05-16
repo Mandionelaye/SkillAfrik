@@ -7,13 +7,13 @@ export const metadata = {
    openGraph: {
     type: "website",
     locale: "fr_FR",
-    url: "https://skillafrik.com/domaines/formation",
+    url: "https://skillafrik-seven.vercel.app/domaines/formation",
     title: title,
     description: description,
     siteName: "SkillAfrik",
     images: [
       {
-        url: "https://skillafrik.com/images/logo_mine.png",
+        url: "https://skillafrik-seven.vercel.app/images/logo_mine.png",
         width: 800,
         height: 600,
         alt: "SkillAfrik",

@@ -5,6 +5,6 @@ export default function robots() {
       allow: ['/', '/domaines', '/domaines/formation'],
       disallow: [],
     },
-    sitemap: 'https://skillafrik/sitemap.xml',
+    sitemap: 'https://skillafrik-seven.vercel.app/sitemap.xml',
   }
 }
