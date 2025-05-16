@@ -1,0 +1,1619 @@
+{
+    "domaines": [
+      {
+        "title": "Informatique",
+        "count": 45,
+        "icon": "fa-laptop-code",
+        "image":
+          "https://readdy.ai/api/search-image?query=Modern%2520African%2520tech%2520learning%2520environment%2520with%2520students%2520working%2520on%2520computers%252C%2520clean%2520workspace%2520with%2520multiple%2520screens%2520showing%2520programming%2520interfaces%252C%2520warm%2520lighting%252C%2520professional%2520educational%2520setting&width=300&height=200&seq=domain1&orientation=landscape",
+        "formations": [
+          {
+            "title": "Informatique Bureautique (Word, Excel, PowerPoint)",
+            "description": "Apprenez à utiliser les outils bureautiques essentiels pour le travail de bureau et la gestion de documents.",
+            "duration": "2 mois",
+            "videos": 10,
+            "isPopular": true,
+            "isRecent": true,
+            "image": "https://readdy.ai/api/search-image?query=African-inspired%20workspace%20with%20modern%20computer%20setup%2C%20showing%20Microsoft%20Office%20applications%20on%20screen.%20Warm%20earthy%20tones%20with%20traditional%20African%20patterns%20subtly%20integrated%20into%20the%20background.%20Professional%2C%20clean%2C%20educational%20setting%20with%20natural%20light.&width=600&height=400&seq=1&orientation=landscape"
+          },
+          {
+           "title" : "Développement Web de base (HTML, CSS, JavaScript)",
+            "description" : "Initiez-vous aux bases du développement web avec HTML, CSS et JavaScript pour créer des sites web interactifs.",
+            "duration": "3 mois",
+            "videos": 15,
+            "isPopular": true,
+            "isRecent": true,
+            "image" : "https://readdy.ai/api/search-image?query=Modern%20web%20development%20workspace%20with%20HTML%2C%20CSS%2C%20and%20JavaScript%20code%20on%20computer%20screens.%20African-inspired%20d%C3%A9cor%20with%20kente%20cloth%20patterns%20subtly%20integrated%20in%20the%20background.%20Professional%20coding%20environment%20with%20warm%20lighting%20and%20earthy%20color%20palette.%20Clean%2C%20educational%20setting.&width=600&height=400&seq=2&orientation=landscape"
+          },
+          {
+            "title": "Développement Web avec React.js",
+            "description": "Approfondissez vos compétences en développement web avec React.js pour créer des applications web modernes.",
+            "duration": "4 mois",
+            "videos": 20,
+            "isPopular": true,
+            "isRecent": true,
+            "image" : "https://readdy.ai/api/search-image?query=Modern%20React.js%20development%20environment%20with%20code%20editor%20showing%20React%20components.%20African-inspired%20workspace%20with%20subtle%20adinkra%20patterns%20in%20the%20background.%20Professional%2C%20clean%20setup%20with%20warm%20lighting%20and%20earthy%20tones.%20Educational%20setting%20with%20multiple%20monitors%20showing%20web%20application%20development.&width=600&height=400&seq=3&orientation=landscape"
+          },
+          {
+            "title":"Programmation Python pour débutants",
+            "description": "Découvrez les bases de la programmation avec Python, un langage polyvalent et facile à apprendre.",
+            "duration": "3 mois",
+            "videos": 12,
+            "isPopular": true,
+            "isRecent": true,
+            "image" : "https://readdy.ai/api/search-image?query=Python%20programming%20environment%20with%20code%20editor%20showing%20Python%20syntax.%20African-inspired%20workspace%20with%20subtle%20mud%20cloth%20patterns%20in%20background.%20Professional%2C%20clean%20setup%20with%20warm%20lighting%20and%20earthy%20tones.%20Educational%20setting%20with%20books%20and%20materials%20relevant%20to%20beginning%20programmers.&width=600&height=400&seq=4&orientation=landscape"
+          },
+          {
+            "title" : "Initiation à la cybersécurité",
+            "description" : "Apprenez les principes fondamentaux de la cybersécurité pour protéger vos données et systèmes.",
+            "duration": "2 mois",
+            "videos": 8,
+            "isPopular": true,
+            "isRecent": true,
+            "image" : "https://readdy.ai/api/search-image?query=Cybersecurity%20workspace%20with%20multiple%20monitors%20showing%20security%20tools%20and%20code.%20African-inspired%20office%20with%20subtle%20bogolan%20patterns%20in%20the%20background.%20Professional%2C%20secure%20environment%20with%20warm%20lighting%20and%20earthy%20tones.%20Educational%20setting%20focusing%20on%20digital%20security%20concepts.&width=600&height=400&seq=5&orientation=landscape"
+          },
+          {
+            "title" : "Développement mobile avec React Native",
+            "description" : "Créez des applications mobiles multiplateformes avec React Native, un framework populaire.",
+            "duration": "4 mois",
+            "videos": 18,
+            "isPopular": true,
+            "isRecent": true,
+            "image" : "https://readdy.ai/api/search-image?query=Mobile%20app%20development%20workspace%20with%20React%20Native%20code%20on%20screens%20and%20mobile%20devices%20for%20testing.%20African-inspired%20office%20with%20subtle%20kente%20patterns%20in%20the%20background.%20Professional%2C%20clean%20setup%20with%20warm%20lighting%20and%20earthy%20tones.%20Educational%20setting%20focusing%20on%20mobile%20development.&width=600&height=400&seq=6&orientation=landscape"
+          },
+          {
+            "title" : "Conception UX/UI avec Figma",
+            "description" : "Apprenez à concevoir des interfaces utilisateur attrayantes et fonctionnelles avec Figma.",
+            "duration": "2 mois",
+            "videos": 10,
+            "isPopular": true,
+            "isRecent": true,
+            "image": "https://readdy.ai/api/search-image?query=UX%2FUI%20design%20workspace%20with%20Figma%20open%20on%20screen%20showing%20interface%20designs.%20African-inspired%20office%20with%20subtle%20adinkra%20patterns%20in%20the%20background.%20Professional%2C%20creative%20environment%20with%20warm%20lighting%20and%20earthy%20tones.%20Design%20books%20and%20materials%20visible.&width=600&height=400&seq=7&orientation=landscape"
+          },
+          {
+            "title" : "Utilisation de Git et GitHub",
+            "description" : "Maîtrisez les outils de gestion de version Git et GitHub pour collaborer efficacement sur des projets.",
+            "duration": "1 mois",
+            "videos": 5,
+            "isPopular": true,
+            "isRecent": true,
+            "image" : "https://readdy.ai/api/search-image?query=Git%20and%20GitHub%20workspace%20showing%20version%20control%20interface%20and%20collaborative%20coding.%20African-inspired%20office%20with%20subtle%20mud%20cloth%20patterns%20in%20the%20background.%20Professional%20development%20environment%20with%20warm%20lighting%20and%20earthy%20tones.%20Educational%20setting%20with%20multiple%20screens.&width=600&height=400&seq=8&orientation=landscape"
+          },
+          {
+            "title" : "Bases de données avec MySQL et MongoDB",
+            "description" : "Apprenez à gérer des bases de données relationnelles et non relationnelles avec MySQL et MongoDB.",
+            "duration": "3 mois",
+            "videos": 15,
+            "isPopular": true,
+            "isRecent": true,
+            "image" : "https://readdy.ai/api/search-image?query=Database%20management%20workspace%20showing%20MySQL%20and%20MongoDB%20interfaces.%20African-inspired%20office%20with%20subtle%20bogolan%20patterns%20in%20the%20background.%20Professional%20data%20environment%20with%20warm%20lighting%20and%20earthy%20tones.%20Educational%20setting%20with%20database%20schema%20diagrams%20visible.&width=600&height=400&seq=9&orientation=landscape"
+          },
+          {
+            "title" : "Déploiement d’applications avec Firebase",
+            "description" : "Découvrez comment déployer vos applications web et mobiles sur Firebase pour une gestion simplifiée.",
+            "duration": "2 mois",
+            "videos": 8,
+            "isPopular": true,
+            "isRecent": true,
+            "image" : "https://readdy.ai/api/search-image?query=Firebase%20deployment%20workspace%20showing%20cloud%20services%20and%20application%20hosting.%20African-inspired%20office%20with%20subtle%20kente%20patterns%20in%20the%20background.%20Professional%20cloud%20development%20environment%20with%20warm%20lighting%20and%20earthy%20tones.%20Educational%20setting%20with%20multiple%20screens%20showing%20deployment%20process.&width=600&height=400&seq=10&orientation=landscape"
+          }
+
+        ],
+        "isPopular": true,
+        "isRecent": true
+      },
+      {
+        "title": "Agriculture",
+        "count": 38,
+        "icon": "fa-seedling",
+        "image":
+              "https://readdy.ai/api/search-image?query=Modern%2520African%2520agricultural%2520training%2520center%2520with%2520advanced%2520farming%2520equipment%252C%2520students%2520learning%2520sustainable%2520farming%2520techniques%252C%2520bright%2520natural%2520lighting%252C%2520educational%2520greenhouse%2520environment&width=300&height=200&seq=domain2&orientation=landscape",
+        "formations": [
+          {
+            "title": "Techniques de maraîchage",
+            "description": "Apprenez les méthodes modernes de culture de légumes en milieu contrôlé.",
+            "duration": "3 mois",
+            "videos": 10,
+            "isPopular": true,
+            "isRecent": true,
+            "image": "https://readdy.ai/api/search-image?query=African%20farmer%20working%20in%20a%20vegetable%20garden%20with%20lush%20green%20plants%2C%20traditional%20farming%20techniques%2C%20rural%20setting%2C%20bright%20sunlight%2C%20colorful%20vegetables%20growing%20in%20rows%2C%20sustainable%20agriculture%20practices%20in%20Africa&width=600&height=400&seq=1&orientation=landscape"
+          },
+          {
+            "title": "Culture du maïs et du riz",
+            "description": "Maîtrisez les techniques de culture du maïs et du riz pour une production efficace.",
+            "duration": "4 mois",
+            "videos": 12,
+            "isPopular": true,
+            "isRecent": true,
+            "image": "https://readdy.ai/api/search-image?query=African%20farmers%20tending%20to%20vast%20fields%20of%20corn%20and%20rice%20crops%2C%20traditional%20farming%20methods%2C%20golden%20sunlight%2C%20rural%20African%20landscape%2C%20sustainable%20agriculture%2C%20workers%20in%20colorful%20clothing%20harvesting%20grains&width=600&height=400&seq=2&orientation=landscape"
+          },
+          {
+            "title": "Élevage de poulets de chair",
+            "description": "Apprenez à élever des poulets de chair pour une production avicole rentable.",
+            "duration": "3 mois",
+            "videos": 8,
+            "isPopular": false,
+            "isRecent": true,
+            "image": "https://readdy.ai/api/search-image?query=African%20poultry%20farm%20with%20healthy%20broiler%20chickens%2C%20modern%20farming%20techniques%2C%20clean%20environment%2C%20professional%20poultry%20management%2C%20rural%20setting%2C%20sustainable%20livestock%20farming%20in%20Africa&width=600&height=400&seq=3&orientation=landscape"
+          },
+          {
+            "title": "Élevage de petits ruminants",
+            "description": "Maîtrisez l'élevage de chèvres et de moutons pour une production animale durable.",
+            "duration": "4 mois",
+            "videos": 10,
+            "isPopular": true,
+            "isRecent": true,
+            "image": "https://readdy.ai/api/search-image?query=African%20farmer%20tending%20to%20goats%20and%20sheep%20in%20a%20rural%20setting%2C%20traditional%20livestock%20management%2C%20lush%20green%20pasture%2C%20sustainable%20animal%20husbandry%20practices%2C%20small-scale%20farming%20in%20Africa&width=600&height=400&seq=4&orientation=landscape"
+          },
+          {
+            "title": "Agroécologie et permaculture",
+            "description": "Découvrez les principes de l'agroécologie et de la permaculture pour une agriculture durable.",
+            "duration": "5 mois",
+            "videos": 15,
+            "isPopular": false,
+            "isRecent": true,
+            "image": "https://readdy.ai/api/search-image?query=African%20permaculture%20garden%20with%20diverse%20crops%20growing%20together%2C%20sustainable%20farming%20practices%2C%20natural%20pest%20control%20methods%2C%20traditional%20knowledge%20combined%20with%20modern%20techniques%2C%20vibrant%20ecosystem%20in%20rural%20Africa&width=600&height=400&seq=5&orientation=landscape"
+          },
+          {
+            "title": "Gestion d’une ferme moderne",
+            "description": "Apprenez à gérer efficacement une ferme moderne avec des outils numériques.",
+            "duration": "6 mois",
+            "videos": 12,
+            "isPopular": true,
+            "isRecent": true,
+            "image":  "https://readdy.ai/api/search-image?query=Modern%20African%20farm%20with%20technology%20integration%2C%20farmer%20using%20tablet%20for%20crop%20management%2C%20efficient%20irrigation%20systems%2C%20solar%20panels%2C%20sustainable%20modern%20agriculture%20practices%20in%20rural%20African%20setting&width=600&height=400&seq=6&orientation=landscape"
+          },
+          {
+            "title": "Transformation des produits agricoles",
+            "description": "Découvrez comment transformer les produits agricoles pour ajouter de la valeur.",
+            "duration": "4 mois",
+            "videos": 10,
+            "isPopular": true,
+            "isRecent": true,
+            "image": "https://readdy.ai/api/search-image?query=African%20women%20processing%20agricultural%20products%20in%20a%20community%20facility%2C%20traditional%20food%20processing%20techniques%2C%20value%20addition%20to%20farm%20produce%2C%20colorful%20fruits%20and%20vegetables%20being%20transformed%2C%20rural%20enterprise%20in%20Africa&width=600&height=400&seq=7&orientation=landscape"
+          },
+          {
+            "title": "Système d’irrigation goutte-à-goutte",
+            "description": "Apprenez à installer et à gérer un système d'irrigation goutte-à-goutte pour une agriculture efficace.",
+            "duration": "3 mois",
+            "videos": 8,
+            "isPopular": true,
+            "isRecent": true,
+            "image": "https://readdy.ai/api/search-image?query=African%20farmer%20installing%20drip%20irrigation%20system%20in%20a%20vegetable%20garden%2C%20water%20conservation%20techniques%2C%20sustainable%20farming%20practices%2C%20efficient%20water%20use%20in%20arid%20conditions%2C%20modern%20agricultural%20technology%20in%20rural%20Africa&width=600&height=400&seq=8&orientation=landscape"
+          },
+          {
+            "title": "Culture hors-sol (hydroponie)",
+            "description": "Découvrez les techniques de culture hors-sol pour une agriculture innovante.",
+            "duration": "4 mois",
+            "videos": 10,
+            "isPopular": false,
+            "isRecent": true,
+            "image": "https://readdy.ai/api/search-image?query=Modern%20hydroponic%20system%20in%20African%20setting%2C%20soilless%20cultivation%20techniques%2C%20vertical%20farming%2C%20efficient%20use%20of%20space%20and%20resources%2C%20innovative%20agricultural%20practices%2C%20sustainable%20food%20production%20in%20urban%20Africa&width=600&height=400&seq=9&orientation=landscape"
+          },
+          {
+            "title": "Marketing des produits agricoles",
+            "description": "Apprenez à commercialiser vos produits agricoles sur le marché local et international.",
+            "duration": "3 mois",
+            "videos": 10,
+            "isPopular": true,
+            "isRecent": true,
+            "image": "https://readdy.ai/api/search-image?query=Vibrant%20African%20marketplace%20with%20farmers%20selling%20agricultural%20products%2C%20colorful%20display%20of%20fresh%20produce%2C%20traditional%20trading%20practices%2C%20rural%20economy%2C%20sustainable%20business%20models%20in%20African%20agricultural%20sector&width=600&height=400&seq=10&orientation=landscape"
+          }
+          
+        ],
+        "isPopular": false,
+        "isRecent": false
+      },
+      {
+        "title": "Énergie & Électricité",
+        "count": 32,
+        "icon": "fa-bolt",
+        "image":
+          "https://readdy.ai/api/search-image?query=Professional%2520electrical%2520training%2520facility%2520in%2520Africa%2520with%2520students%2520working%2520on%2520solar%2520panels%2520and%2520electrical%2520circuits%252C%2520modern%2520equipment%252C%2520bright%2520workshop%2520environment&width=300&height=200&seq=domain3&orientation=landscape",
+        "formations": [
+          {
+            "title": "Électricité domestique de base",
+            "description": "Apprenez les bases de l'électricité domestique pour installer et entretenir des systèmes électriques.",
+            "duration": "3 mois",
+            "videos": 10,
+            "isPopular": false,
+            "isRecent": false,
+            "image": "https://readdy.ai/api/search-image?query=African%20technician%20working%20on%20electrical%20circuit%20in%20a%20modern%20home%2C%20close-up%20shot%20of%20hands%20connecting%20wires%2C%20warm%20lighting%2C%20clean%20workspace%2C%20professional%20tools%20visible%2C%20high%20quality%20photorealistic&width=400&height=250&seq=1&orientation=landscape"
+          },
+          {
+            "title": "Installation de panneaux solaires",
+            "description": "Apprenez à installer et à entretenir des systèmes photovoltaïques pour la production d'énergie solaire.",
+            "duration": "4 mois",
+            "videos": 12,
+            "isPopular": true,
+            "isRecent": false,
+            "image": "https://readdy.ai/api/search-image?query=African%20technicians%20installing%20solar%20panels%20on%20traditional%20African%20house%20roof%2C%20sunny%20day%2C%20clear%20blue%20sky%2C%20professional%20equipment%2C%20team%20working%20together%2C%20sustainable%20energy%20solution%2C%20high%20quality%20photorealistic&width=400&height=250&seq=2&orientation=landscape"
+          },
+          {
+            "title": "Électricité industrielle",
+            "description": "Maîtrisez les systèmes électriques industriels pour travailler dans des environnements de production.",
+            "duration": "5 mois",
+            "videos": 15,
+            "isPopular": true,
+            "isRecent": false,
+            "image": "https://readdy.ai/api/search-image?query=African%20electrical%20engineer%20working%20on%20industrial%20control%20panel%2C%20factory%20setting%2C%20complex%20wiring%20system%2C%20professional%20attire%2C%20focused%20expression%2C%20technical%20environment%2C%20high%20quality%20photorealistic&width=400&height=250&seq=3&orientation=landscape"
+          },
+          {
+            "title": "Maintenance de systèmes photovoltaïques",
+            "description": "Apprenez à entretenir et à réparer des systèmes solaires pour garantir leur efficacité.",
+            "duration": "3 mois",
+            "videos": 10,
+            "isPopular": true,
+            "isRecent": false,
+            "image": "https://readdy.ai/api/search-image?query=African%20technician%20maintaining%20solar%20photovoltaic%20system%2C%20checking%20connections%20and%20cleaning%20panels%2C%20outdoor%20setting%20with%20traditional%20African%20buildings%20in%20background%2C%20sunny%20day%2C%20professional%20tools%2C%20high%20quality%20photorealistic&width=400&height=250&seq=4&orientation=landscape"
+          },
+          {
+            "title": "Domotique (maison intelligente)",
+            "description": "Découvrez comment intégrer des systèmes domotiques pour automatiser les maisons.",
+            "duration": "4 mois",
+            "videos": 12,
+            "isPopular": true,
+            "isRecent": false,
+            "image": "https://readdy.ai/api/search-image?query=African%20smart%20home%20specialist%20installing%20home%20automation%20system%2C%20modern%20African%20interior%20with%20traditional%20elements%2C%20tablet%20displaying%20smart%20home%20interface%2C%20professional%20equipment%2C%20focused%20work%2C%20high%20quality%20photorealistic&width=400&height=250&seq=5&orientation=landscape"
+          },
+          {
+            "title": "Lecture de plans électriques",
+            "description": "Apprenez à lire et à interpréter des plans électriques pour des installations précises.",
+            "duration": "2 mois",
+            "videos": 8,
+            "isPopular": true,
+            "isRecent": false,
+            "image": "https://readdy.ai/api/search-image?query=African%20electrical%20engineer%20analyzing%20electrical%20blueprints%20on%20desk%2C%20technical%20drawings%2C%20measuring%20tools%2C%20bright%20office%20environment%2C%20professional%20setting%2C%20focused%20expression%2C%20high%20quality%20photorealistic&width=400&height=250&seq=6&orientation=landscape"
+          },
+          {
+            "title": "Montage de tableaux électriques",
+            "description": "Apprenez à assembler et à installer des tableaux électriques pour la distribution d'énergie.",
+            "duration": "3 mois",
+            "videos": 10,
+            "isPopular": true,
+            "isRecent": false,
+            "image": "https://readdy.ai/api/search-image?query=African%20electrician%20assembling%20electrical%20panel%2C%20detailed%20wiring%20work%2C%20organized%20components%2C%20professional%20tools%2C%20workshop%20environment%2C%20focused%20on%20precision%20work%2C%20high%20quality%20photorealistic&width=400&height=250&seq=7&orientation=landscape"
+          },
+          {
+            "title": "Sécurité électrique et prévention",
+            "description": "Apprenez les normes de sécurité électrique pour prévenir les accidents.",
+            "duration": "2 mois",
+            "videos": 8,
+            "isPopular": true,
+            "isRecent": false,
+            "image": "https://readdy.ai/api/search-image?query=African%20safety%20instructor%20demonstrating%20electrical%20safety%20procedures%2C%20protective%20equipment%2C%20warning%20signs%2C%20classroom%20setting%20with%20diverse%20African%20students%2C%20educational%20environment%2C%20safety%20first%20approach%2C%20high%20quality%20photorealistic&width=400&height=250&seq=8&orientation=landscape"
+          },
+          {
+            "title": "Calcul de charge électrique",
+            "description": "Maîtrisez le calcul des charges électriques pour des installations sûres.",
+            "duration": "3 mois",
+            "videos": 10,
+            "isPopular": true,
+            "isRecent": false,
+            "image": "https://readdy.ai/api/search-image?query=African%20electrical%20engineer%20calculating%20load%20requirements%2C%20using%20calculator%20and%20computer%2C%20technical%20documents%2C%20modern%20office%20with%20African%20design%20elements%2C%20professional%20environment%2C%20concentration%20on%20complex%20task%2C%20high%20quality%20photorealistic&width=400&height=250&seq=9&orientation=landscape"
+          },
+          {
+            "title": "Stockage d’énergie (batteries)",
+            "description": "Découvrez les systèmes de stockage d'énergie pour une gestion efficace de l'énergie.",
+            "duration": "4 mois",
+            "videos": 12,
+            "isPopular": false,
+            "isRecent": false,
+            "image": "https://readdy.ai/api/search-image?query=African%20energy%20specialist%20working%20with%20battery%20storage%20system%2C%20solar%20energy%20installation%2C%20technical%20equipment%2C%20modern%20facility%20with%20African%20architectural%20elements%2C%20professional%20tools%2C%20sustainable%20energy%20solution%2C%20high%20quality%20photorealistic&width=400&height=250&seq=10&orientation=landscape"
+          }
+
+        ],
+        "isPopular": true,
+        "isRecent": false
+      },
+      {
+        "title": "Couture & Stylisme",
+        "count": 28,
+        "icon": "fa-scissors",
+        "image":
+          "https://readdy.ai/api/search-image?query=Modern%20African%20fashion%20design%20studio%20with%20sewing%20machines%2C%20fabric%20samples%2C%20and%20design%20sketches%2C%20students%20working%20on%20garments%2C%20natural%20lighting%2C%20creative%20workspace&width=300&height=200&seq=domain4&orientation=landscape",
+        "formations": [
+          {
+            "title" : "Couture de base (machine, finitions)",
+            "description" : "Apprenez les techniques de couture de base, y compris l'utilisation de la machine à coudre et les finitions.",
+            "duration": "3 mois",
+            "videos": 10,
+            "isPopular": true,
+            "isRecent": false,
+            "image" : "https://readdy.ai/api/search-image?query=African%20fashion%20designer%20working%20with%20colorful%20fabrics%20at%20a%20sewing%20machine%2C%20bright%20studio%20with%20traditional%20patterns%2C%20professional%20workspace%20with%20spools%20of%20thread%20and%20measuring%20tools%2C%20warm%20lighting%2C%20clean%20modern%20workspace&width=600&height=400&seq=1&orientation=landscape"
+          },
+          {
+            "title" : "Stylisme et modélisme",
+            "description" : "Apprenez à créer des modèles de vêtements et à concevoir des collections de mode.",
+            "duration": "4 mois",
+            "videos": 12,
+            "isPopular": true,
+            "isRecent": false,
+            "image" : "https://readdy.ai/api/search-image?query=Fashion%20designer%20creating%20African%20style%20clothing%20sketches%20on%20drawing%20table%2C%20surrounded%20by%20colorful%20fabric%20swatches%2C%20pencils%20and%20measuring%20tools%2C%20bright%20modern%20studio%20with%20traditional%20African%20patterns%20on%20wall%2C%20professional%20workspace&width=600&height=400&seq=2&orientation=landscape"
+          },
+          {
+            "title" : "Création de vêtements africains",
+            "description" : "Découvrez les techniques de création de vêtements inspirés par la culture africaine.",
+            "duration": "5 mois",
+            "videos": 15,
+            "isPopular": true,
+            "isRecent": false,
+            "image" : "https://readdy.ai/api/search-image?query=African%20tailor%20creating%20traditional%20garments%20with%20vibrant%20wax%20print%20fabrics%2C%20detailed%20embroidery%20work%20in%20progress%2C%20well-organized%20workspace%20with%20measuring%20tapes%20and%20scissors%2C%20natural%20lighting%20through%20large%20windows%2C%20professional%20setting&width=600&height=400&seq=3&orientation=landscape"
+          },
+          {
+            "title" : "Patronage manuel et numérique",
+            "description" : "Apprenez à créer des patrons de couture manuellement et avec des logiciels spécialisés.",
+            "duration": "3 mois",
+            "videos": 10,
+            "isPopular": true,
+            "isRecent": false,
+            "image" : "https://readdy.ai/api/search-image?query=Fashion%20designer%20working%20on%20digital%20pattern%20making%20software%20with%20traditional%20African%20designs%20on%20screen%2C%20alongside%20hand-drawn%20patterns%20on%20large%20table%2C%20professional%20studio%20with%20fabric%20samples%20and%20measuring%20tools%2C%20bright%20modern%20workspace&width=600&height=400&seq=4&orientation=landscape"
+          },
+          {
+            "title" : "Couture pour enfants et bébés",
+            "description" : "Découvrez les techniques de couture adaptées aux vêtements pour enfants et bébés.",
+            "duration": "4 mois",
+            "videos": 12,
+            "isPopular": true,
+            "isRecent": false,
+            "image" : "https://readdy.ai/api/search-image?query=Seamstress%20creating%20colorful%20African%20print%20children%20clothing%2C%20cute%20baby%20outfits%20displayed%20on%20mannequins%2C%20bright%20studio%20with%20organized%20fabric%20shelves%2C%20professional%20sewing%20equipment%2C%20warm%20inviting%20atmosphere%20with%20natural%20light&width=600&height=400&seq=5&orientation=landscape"
+          },
+          {
+            "title" : "Broderie machine",
+            "description" : "Apprenez à utiliser des machines à broder pour embellir vos créations.",
+            "duration": "3 mois",
+            "videos": 10,
+            "isPopular": true,
+            "isRecent": false,
+            "image" :  "https://readdy.ai/api/search-image?query=Professional%20embroidery%20machine%20stitching%20intricate%20African%20patterns%20on%20fabric%2C%20close-up%20of%20detailed%20work%20in%20progress%2C%20colorful%20threads%20organized%20nearby%2C%20bright%20modern%20workshop%20with%20examples%20of%20finished%20embroidered%20pieces%20displayed%2C%20technical%20setting&width=600&height=400&seq=6&orientation=landscape"
+          },
+          {
+            "title" : "Création de sacs et accessoires",
+            "description" : "Découvrez comment créer des sacs et accessoires uniques en utilisant des techniques de couture.",
+            "duration": "4 mois",
+            "videos": 12,
+            "isPopular": true,
+            "isRecent": false,
+            "image" : "https://readdy.ai/api/search-image?query=African%20artisan%20crafting%20handmade%20leather%20and%20wax%20print%20fabric%20bags%20and%20accessories%2C%20detailed%20close-up%20of%20intricate%20beadwork%20and%20stitching%2C%20bright%20workshop%20with%20finished%20colorful%20products%20displayed%2C%20professional%20workspace%20with%20traditional%20tools%20and%20modern%20equipment&width=600&height=400&seq=13&orientation=landscape"
+          },
+          {
+            "title" : "Recyclage textile et mode durable",
+            "description" : "Apprenez à créer des vêtements à partir de matériaux recyclés et à adopter une approche durable dans la mode.",
+            "duration": "5 mois",
+            "videos": 15,
+            "isPopular": true,
+            "isRecent": false,
+            "image" :  "https://readdy.ai/api/search-image?query=Sustainable%20fashion%20designer%20upcycling%20traditional%20African%20textiles%20into%20modern%20garments%2C%20eco-friendly%20workshop%20with%20sorted%20fabric%20scraps%2C%20bright%20creative%20space%20with%20plants%2C%20finished%20upcycled%20clothing%20displayed%20on%20mannequins%2C%20professional%20environment%20focused%20on%20sustainability&width=600&height=400&seq=14&orientation=landscape"
+          },
+          {
+            "title" : "Gestion d’un atelier de couture",
+            "description" : "Découvrez comment gérer efficacement un atelier de couture, y compris la gestion des stocks et des clients.",
+            "duration": "3 mois",
+            "videos": 10,
+            "isPopular": true,
+            "isRecent": false,
+            "image" : "https://readdy.ai/api/search-image?query=African%20fashion%20entrepreneur%20managing%20busy%20sewing%20workshop%2C%20professional%20overseeing%20multiple%20seamstresses%20working%20at%20stations%2C%20organized%20fabric%20inventory%20and%20business%20documents%20on%20desk%2C%20bright%20modern%20studio%20with%20efficient%20workflow%2C%20business%20management%20in%20action&width=600&height=400&seq=15&orientation=landscape"
+          },
+          {
+            "title" : "Défilé de mode et marketing",
+            "description" : "Apprenez à organiser un défilé de mode et à promouvoir vos créations.",
+            "duration": "4 mois",
+            "videos": 12,
+            "isPopular": true,
+            "isRecent": false,
+            "image" : "https://readdy.ai/api/search-image?query=African%20fashion%20show%20preparation%20with%20models%20wearing%20vibrant%20traditional%20inspired%20modern%20designs%2C%20backstage%20coordination%20with%20stylists%20and%20photographers%2C%20professional%20runway%20setup%20with%20lighting%20equipment%2C%20marketing%20materials%20and%20social%20media%20station%20visible%2C%20dynamic%20fashion%20industry%20environment&width=600&height=400&seq=16&orientation=landscape"
+          }
+        ],
+        "isPopular": true,
+        "isRecent": false
+      },
+      {
+        "title": "BTP (Bâtiment et Travaux Publics)",
+        "count": 35,
+        "icon": "fa-hard-hat",
+        "image":
+        "https://readdy.ai/api/search-image?query=Modern%2520African%2520construction%2520training%2520site%2520with%2520architectural%2520plans%252C%2520building%2520materials%252C%2520and%2520safety%2520equipment%252C%2520students%2520learning%2520construction%2520techniques%252C%2520professional%2520environment&width=300&height=200&seq=domain5&orientation=landscape",
+        "formations": [
+          {
+            "title": "Maçonnerie de base",
+            "description": "Apprenez les techniques de maçonnerie pour construire des murs et des structures solides.",
+            "duration": "3 mois",
+            "videos": 10,
+            "isPopular": true,
+            "isRecent": false,
+            "image": "https://readdy.ai/api/search-image?query=African%20construction%20worker%20teaching%20masonry%20techniques%20on%20a%20building%20site%2C%20demonstrating%20brick%20laying%20with%20traditional%20and%20modern%20methods%2C%20bright%20sunny%20day%2C%20construction%20materials%20neatly%20organized%2C%20professional%20training%20environment%20with%20safety%20equipment&width=600&height=400&seq=7&orientation=landscape"
+          },
+          {
+            "title": "Électricité bâtiment",
+            "description": "Découvrez les systèmes électriques utilisés dans la construction de bâtiments.",
+            "duration": "4 mois",
+            "videos": 12,
+            "isPopular": true,
+            "isRecent": false,
+            "image": "https://readdy.ai/api/search-image?query=Electrical%20technician%20installing%20wiring%20in%20African%20building%20project%2C%20professional%20demonstrating%20proper%20techniques%20with%20circuit%20boards%20and%20tools%2C%20well-lit%20workspace%20with%20safety%20equipment%2C%20modern%20electrical%20components%20organized%20nearby%2C%20educational%20setting&width=600&height=400&seq=8&orientation=landscape"
+          },
+          {
+            "title": "Carrelage et faïence",
+            "description": "Apprenez à poser du carrelage et de la faïence pour embellir les espaces intérieurs et extérieurs.",
+            "duration": "3 mois",
+            "videos": 10,
+            "isPopular": true,
+            "isRecent": false,
+            "image": "https://readdy.ai/api/search-image?query=Professional%20tiler%20demonstrating%20tile%20installation%20techniques%20in%20African%20construction%20site%2C%20working%20with%20traditional%20and%20modern%20patterns%2C%20tools%20neatly%20arranged%2C%20bright%20workspace%20with%20partially%20completed%20tiled%20floor%20showing%20progress%2C%20technical%20training%20environment&width=600&height=400&seq=9&orientation=landscape"
+          },
+          {
+            "title": "Plomberie sanitaire",
+            "description": "Découvrez les systèmes de plomberie utilisés dans les bâtiments modernes.",
+            "duration": "4 mois",
+            "videos": 12,
+            "isPopular": true,
+            "isRecent": false,
+            "image":  "https://readdy.ai/api/search-image?query=Plumbing%20instructor%20demonstrating%20pipe%20fitting%20techniques%20in%20African%20training%20center%2C%20professional%20tools%20and%20materials%20organized%20on%20workbench%2C%20modern%20plumbing%20fixtures%20displayed%2C%20bright%20workshop%20with%20practical%20learning%20stations%2C%20technical%20educational%20environment&width=600&height=400&seq=10&orientation=landscape"
+          },
+          {
+            "title": "Peinture et décoration",
+            "description": "Apprenez les techniques de peinture et de décoration pour embellir les espaces intérieurs.",
+            "duration": "3 mois",
+            "videos": 10,
+            "isPopular": true,
+            "isRecent": false,
+            "image":  "https://readdy.ai/api/search-image?query=Painting%20instructor%20teaching%20decorative%20techniques%20with%20traditional%20African%20motifs%2C%20colorful%20paint%20samples%20displayed%20on%20wall%2C%20professional%20demonstrating%20brush%20techniques%2C%20bright%20studio%20with%20examples%20of%20finished%20work%2C%20creative%20workshop%20environment%20with%20organized%20supplies&width=600&height=400&seq=11&orientation=landscape"
+          },
+          {
+            "title": "Construction de logements sociaux",
+            "description": "Découvrez les techniques de construction adaptées aux logements sociaux.",
+            "duration": "5 mois",
+            "videos": 15,
+            "isPopular": true,
+            "isRecent": false,
+            "image":  "https://readdy.ai/api/search-image?query=African%20construction%20professionals%20reviewing%20plans%20for%20social%20housing%20project%2C%20scale%20model%20of%20sustainable%20housing%20development%20on%20table%2C%20bright%20office%20with%20architectural%20drawings%20displayed%2C%20team%20discussing%20eco-friendly%20building%20techniques%2C%20professional%20planning%20environment&width=600&height=400&seq=12&orientation=landscape"
+          },
+          {
+            "title": 	"Lecture de plans de bâtiment",
+            "description": "Apprenez à lire et à interpréter des plans de bâtiment pour des constructions précises.",
+            "duration": "3 mois",
+            "videos": 10,
+            "isPopular": true,
+            "isRecent": false,
+            "image": "https://readdy.ai/api/search-image?query=African%20construction%20professionals%20studying%20architectural%20blueprints%20spread%20on%20large%20table%2C%20instructor%20pointing%20at%20technical%20details%2C%20bright%20office%20with%20scale%20models%20of%20buildings%2C%20modern%20drafting%20tools%20and%20digital%20tablets%20visible%2C%20professional%20educational%20environment%20focused%20on%20plan%20reading&width=600&height=400&seq=17&orientation=landscape"
+          },
+          {
+            "title": "Utilisation d’AutoCAD",
+            "description": "Découvrez comment utiliser AutoCAD pour créer des plans de bâtiment.",
+            "duration": "4 mois",
+            "videos": 12,
+            "isPopular": true,
+            "isRecent": false,
+            "image":  "https://readdy.ai/api/search-image?query=African%20architectural%20students%20learning%20AutoCAD%20software%20in%20modern%20computer%20lab%2C%20instructor%20demonstrating%20technical%20drawing%20techniques%20on%20large%20screen%2C%20bright%20classroom%20with%20multiple%20workstations%2C%203D%20building%20models%20visible%20on%20screens%2C%20professional%20CAD%20training%20environment&width=600&height=400&seq=18&orientation=landscape"
+          },
+          {
+            "title": "Sécurité sur chantier",
+            "description": "Apprenez les normes de sécurité à respecter sur les chantiers de construction.",
+            "duration": "2 mois",
+            "videos": 8,
+            "isPopular": true,
+            "isRecent": false,
+            "image":   "https://readdy.ai/api/search-image?query=Construction%20safety%20instructor%20demonstrating%20proper%20equipment%20usage%20to%20African%20workers%20on%20building%20site%2C%20safety%20signage%20visible%2C%20workers%20wearing%20complete%20protective%20gear%2C%20bright%20outdoor%20training%20session%20with%20safety%20protocols%20being%20practiced%2C%20professional%20safety-focused%20environment&width=600&height=400&seq=19&orientation=landscape"
+          },
+          {
+            "title": 	"Gestion de projets BTP",
+            "description": 	"Découvrez comment gérer efficacement des projets de construction.",
+            "duration": 	"4 mois",
+            "videos": 	12,
+            "isPopular": 	true,
+            "isRecent": 	false,
+            "image": "https://readdy.ai/api/search-image?query=African%20construction%20project%20managers%20reviewing%20timeline%20charts%20and%20budgets%20in%20modern%20office%2C%20team%20meeting%20with%20architectural%20models%20and%20digital%20planning%20tools%2C%20professional%20discussing%20project%20milestones%20with%20tablets%20and%20laptops%2C%20bright%20workspace%20with%20construction%20site%20visible%20through%20windows&width=600&height=400&seq=20&orientation=landscape"
+          }
+
+        ],
+        "isPopular": false,
+        "isRecent": false
+      },
+      {
+        "title": "Mécanique & Auto",
+        "count": 30,
+        "icon": "fa-car",
+        "image":
+          "https://readdy.ai/api/search-image?query=Modern%2520African%2520automotive%2520workshop%2520with%2520students%2520working%2520on%2520vehicles%252C%2520professional%2520tools%2520and%2520diagnostic%2520equipment%252C%2520clean%2520well-lit%2520training%2520environment&width=300&height=200&seq=domain6&orientation=landscape",
+        "formations": [
+          {
+            "title" : "Mécanique moteur essence",
+            "description" : "Apprenez les bases de la mécanique des moteurs à essence, y compris le démontage et le remontage.",
+            "duration": "3 mois",
+            "videos": 10,
+            "isPopular": false,
+            "isRecent": false,
+            "image" : "https://readdy.ai/api/search-image?query=Professional%20African%20mechanic%20working%20on%20a%20car%20engine%20in%20a%20modern%20garage%2C%20detailed%20view%20of%20hands%20working%20on%20engine%20parts%2C%20bright%20workshop%20environment%2C%20educational%20setting%2C%20high%20quality%20tools%20visible&width=600&height=400&seq=1&orientation=landscape"
+          },
+          {
+            "title" : "Mécanique moteur diesel",
+            "description" : "Découvrez les spécificités des moteurs diesel et apprenez à les réparer.",
+            "duration": "4 mois",
+            "videos": 12,
+            "isPopular": true,
+            "isRecent": false,
+            "image" :  "https://readdy.ai/api/search-image?query=African%20mechanic%20repairing%20diesel%20engine%20in%20well-equipped%20garage%2C%20focused%20on%20diesel%20injector%20system%2C%20professional%20tools%20arranged%20nearby%2C%20educational%20workshop%20environment%2C%20clean%20modern%20workspace&width=600&height=400&seq=2&orientation=landscape"
+          },
+          {
+            "title" : "Diagnostic électronique automobile",
+            "description" : "Apprenez à utiliser des outils de diagnostic pour identifier les problèmes électroniques des véhicules.",
+            "duration": "3 mois",
+            "videos": 10,
+            "isPopular": false,
+            "isRecent": false,
+            "image" : "https://readdy.ai/api/search-image?query=African%20automotive%20technician%20using%20electronic%20diagnostic%20tool%20connected%20to%20car%20computer%20system%2C%20modern%20garage%20setting%2C%20digital%20display%20showing%20diagnostic%20data%2C%20professional%20environment%20with%20clean%20background&width=600&height=400&seq=3&orientation=landscape"
+          },
+          {
+            "title" : "Entretien courant (vidange, filtres)",
+            "description" : "Découvrez les techniques d'entretien courant des véhicules, y compris la vidange et le remplacement des filtres.",
+            "duration": "4 mois",
+            "videos": 12,
+            "isPopular": false,
+            "isRecent": false,
+            "image" : "https://readdy.ai/api/search-image?query=African%20mechanic%20performing%20oil%20change%20on%20vehicle%2C%20showing%20oil%20filter%20replacement%2C%20clean%20workshop%20environment%2C%20educational%20setting%20with%20tools%20organized%20neatly%2C%20bright%20lighting%20highlighting%20the%20maintenance%20process&width=600&height=400&seq=4&orientation=landscape"
+          },
+          {
+            "title" : 	"Freinage et suspension",
+            "description" : "Apprenez à réparer et entretenir les systèmes de freinage et de suspension des véhicules.",
+            "duration": "3 mois",
+            "videos": 10,
+            "isPopular": false,
+            "isRecent": false,
+            "image" : "https://readdy.ai/api/search-image?query=African%20mechanic%20working%20on%20car%20brake%20system%20and%20suspension%2C%20detailed%20view%20of%20disc%20brakes%20being%20serviced%2C%20professional%20garage%20setting%2C%20educational%20environment%2C%20tools%20arranged%20methodically%2C%20clean%20workspace&width=600&height=400&seq=5&orientation=landscape"
+          },
+          {
+            "title" : 	"Électricité automobile",
+            "description" : "Découvrez les systèmes électriques des véhicules et apprenez à les réparer.",
+            "duration": "4 mois",
+            "videos": 12,
+            "isPopular": true,
+            "isRecent": false,
+            "image" : "https://readdy.ai/api/search-image?query=African%20automotive%20electrician%20working%20on%20car%20electrical%20systems%20in%20modern%20workshop%2C%20testing%20circuits%20with%20diagnostic%20equipment%2C%20professional%20training%20environment%20with%20electrical%20components%20visible&width=600&height=400&seq=14&orientation=landscape"
+          },
+          {
+            "title" : 	"Climatisation automobile",
+            "description" : "Apprenez à réparer et entretenir les systèmes de climatisation des véhicules.",
+            "duration": "3 mois",
+            "videos": 10,
+            "isPopular": false,
+            "isRecent": false,
+            "image" : 	"https://readdy.ai/api/search-image?query=African%20mechanic%20servicing%20car%20air%20conditioning%20system%20in%20professional%20garage%2C%20using%20AC%20diagnostic%20tools%2C%20modern%20workshop%20environment%20with%20climate%20control%20equipment%20visible&width=600&height=400&seq=15&orientation=landscape"
+          },
+          {
+            "title" : 	"Montage et équilibrage de pneus",
+            "description" : "Découvrez les techniques de montage et d'équilibrage des pneus.",
+            "duration": "4 mois",
+            "videos": 12,
+            "isPopular": false,
+            "isRecent": false,
+            "image" : 	"https://readdy.ai/api/search-image?query=African%20tire%20specialist%20performing%20professional%20tire%20mounting%20and%20balancing%20in%20modern%20garage%2C%20using%20tire%20balancing%20machine%2C%20clean%20workshop%20environment%20with%20tire%20equipment%20visible&width=600&height=400&seq=16&orientation=landscape"
+          },
+          {
+            "title" : 	"Soudure et carrosserie",
+            "description" : "Apprenez les techniques de soudure et de réparation de carrosserie.",
+            "duration": "5 mois",
+            "videos": 15,
+            "isPopular": true,
+            "isRecent": false,
+            "image" : 	"https://readdy.ai/api/search-image?query=African%20auto%20body%20technician%20welding%20car%20body%20parts%20in%20professional%20workshop%2C%20sparks%20flying%2C%20wearing%20protective%20gear%2C%20modern%20bodywork%20repair%20facility%20with%20proper%20lighting&width=600&height=400&seq=17&orientation=landscape"
+          },
+          {
+            "title" : 	"Créer un garage mobile",
+            "description" : "Découvrez comment créer un garage mobile pour offrir des services de réparation à domicile.",
+            "duration": "4 mois",
+            "videos": 12,
+            "isPopular": false,
+            "isRecent": false,
+            "image" : 	 "https://readdy.ai/api/search-image?query=African%20entrepreneur%20with%20mobile%20mechanic%20service%20van%20fully%20equipped%20with%20tools%2C%20servicing%20car%20at%20client%20location%2C%20professional%20mobile%20workshop%20setup%2C%20organized%20tool%20storage%20visible%2C%20outdoor%20setting%20with%20clean%20background&width=600&height=400&seq=6&orientation=landscape"
+          }
+        ],
+        "isPopular": false,
+        "isRecent": false
+      },
+      {
+        "title": "Cuisine & Restauration",
+        "count": 25,
+        "icon": "fa-utensils",
+        "image":
+              "https://readdy.ai/api/search-image?query=Professional%2520African%2520culinary%2520school%2520kitchen%2520with%2520students%2520cooking%252C%2520modern%2520equipment%252C%2520clean%2520workspace%252C%2520warm%2520lighting%252C%2520professional%2520cooking%2520environment&width=300&height=200&seq=domain7&orientation=landscape",
+        "formations": [
+          {
+            "title": "Cuisine sénégalaise traditionnelle",
+            "description": "Apprenez à préparer des plats sénégalais traditionnels avec des ingrédients locaux.",
+            "duration": "3 mois",
+            "videos": 10,
+            "isPopular": true,
+            "isRecent": false,
+            "image": "https://readdy.ai/api/search-image?query=African%20chef%20preparing%20traditional%20Senegalese%20Thieboudienne%20dish%20in%20professional%20kitchen%2C%20colorful%20ingredients%2C%20vibrant%20spices%2C%20educational%20cooking%20environment%2C%20bright%20clean%20kitchen%20with%20traditional%20cookware&width=600&height=400&seq=7&orientation=landscape"
+          },
+          {
+            "title": "Cuisine ivoirienne et ouest-africaine",
+            "description": "Découvrez les saveurs et techniques de la cuisine ivoirienne et ouest-africaine.",
+            "duration": "4 mois",
+            "videos": 12,
+            "isPopular": true,
+            "isRecent": false,
+            "image": "https://readdy.ai/api/search-image?query=African%20chef%20demonstrating%20Ivorian%20cooking%20techniques%20with%20traditional%20ingredients%2C%20preparing%20Attieke%20and%20Kedjenou%20in%20modern%20kitchen%2C%20educational%20setting%2C%20colorful%20West%20African%20spices%20and%20ingredients%20displayed%20neatly&width=600&height=400&seq=8&orientation=landscape"
+          },
+          {
+            "title": "Cuisine rapide et street food",
+            "description": "Apprenez à préparer des plats rapides et populaires pour la vente ambulante.",
+            "duration": "3 mois",
+            "videos": 10,
+            "isPopular": true,
+            "isRecent": false,
+            "image": "https://readdy.ai/api/search-image?query=African%20chef%20preparing%20street%20food%20in%20modern%20kitchen%2C%20making%20grilled%20meat%20skewers%20and%20fried%20plantains%2C%20fast-paced%20cooking%20demonstration%2C%20educational%20setting%2C%20clean%20food%20preparation%20area%20with%20street%20food%20presentation&width=600&height=400&seq=9&orientation=landscape"
+          },
+          {
+            "title": "Pâtisserie de base (beignets, cakes)",
+            "description": "Découvrez les techniques de base de la pâtisserie pour réaliser des beignets et des gâteaux.",
+            "duration": "4 mois",
+            "videos": 12,
+            "isPopular": true,
+            "isRecent": false,
+            "image": 	"https://readdy.ai/api/search-image?query=African%20pastry%20chef%20demonstrating%20traditional%20beignet%20making%20in%20professional%20kitchen%2C%20dough%20preparation%20and%20frying%20techniques%2C%20educational%20baking%20environment%2C%20finished%20pastries%20beautifully%20displayed%2C%20clean%20modern%20workspace&width=600&height=400&seq=10&orientation=landscape"
+          },
+          {
+            "title": "Décoration culinaire",
+            "description": "Apprenez à décorer des plats et des gâteaux pour les rendre attrayants.",
+            "duration": "3 mois",
+            "videos": 10,
+            "isPopular": true,
+            "isRecent": false,
+            "image": 	"https://readdy.ai/api/search-image?query=African%20chef%20preparing%20street%20food%20in%20modern%20kitchen%2C%20making%20grilled%20meat%20skewers%20and%20fried%20plantains%2C%20fast-paced%20cooking%20demonstration%2C%20educational%20setting%2C%20clean%20food%20preparation%20area%20with%20street%20food%20presentation&width=600&height=400&seq=9&orientation=landscape"
+          },
+          {
+            "title": "Hygiène en cuisine professionnelle",
+            "description": "Découvrez les normes d'hygiène à respecter dans une cuisine professionnelle.",
+            "duration": "2 mois",
+            "videos": 8,
+            "isPopular": true,
+            "isRecent": false,
+            "image": 	"https://readdy.ai/api/search-image?query=African%20food%20safety%20instructor%20demonstrating%20proper%20hygiene%20practices%20in%20professional%20kitchen%2C%20handwashing%20techniques%2C%20food%20storage%20methods%2C%20clean%20workspace%20organization%2C%20educational%20setting%20with%20bright%20lighting%20and%20sanitized%20equipment&width=600&height=400&seq=11&orientation=landscape"
+          },
+          {
+            "title": "Gestion d’un restaurant ou fast-food",
+            "description": "Apprenez à gérer un restaurant ou un fast-food de manière efficace.",
+            "duration": "4 mois",
+            "videos": 12,
+            "isPopular": true,
+            "isRecent": false,
+            "image": 	"https://readdy.ai/api/search-image?query=African%20restaurant%20manager%20teaching%20business%20operations%20in%20modern%20African%20restaurant%20setting%2C%20staff%20training%20session%2C%20inventory%20management%20demonstration%2C%20professional%20environment%20with%20restaurant%20equipment%2C%20educational%20business%20setting&width=600&height=400&seq=12&orientation=landscape"
+          },
+          {
+            "title": 	"Nutrition et diététique",
+            "description": 	"Découvrez les principes de la nutrition et de la diététique pour une alimentation saine.",
+            "duration": 	"3 mois",
+            "videos": 	10,
+            "isPopular": 	true,
+            "isRecent": 	false,
+            "image": 	"https://readdy.ai/api/search-image?query=African%20nutritionist%20explaining%20healthy%20eating%20principles%20with%20traditional%20African%20ingredients%2C%20professional%20consultation%20setting%2C%20educational%20environment%20with%20nutrition%20charts%20and%20fresh%20produce%20displayed&width=600&height=400&seq=18&orientation=landscape"
+          },
+          {
+            "title": 	"Conservation des aliments",
+            "description": 	"Apprenez les techniques de conservation des aliments pour prolonger leur durée de vie.",
+            "duration": 	"2 mois",
+            "videos": 	8,
+            "isPopular": 	true,
+            "isRecent": 	false,
+            "image": 	"https://readdy.ai/api/search-image?query=African%20food%20preservation%20expert%20demonstrating%20modern%20food%20storage%20techniques%20in%20professional%20kitchen%2C%20showing%20various%20preservation%20methods%2C%20clean%20workspace%20with%20storage%20containers%20and%20equipment&width=600&height=400&seq=19&orientation=landscape"
+          },
+          {
+            "title": 	"Vente de plats en ligne",
+            "description": 	"Découvrez comment vendre vos plats en ligne et gérer les commandes.",
+            "duration": 	"3 mois",
+            "videos": 	10,
+            "isPopular": 	true,
+            "isRecent": 	false,
+            "image": "https://readdy.ai/api/search-image?query=African%20chef%20preparing%20food%20delivery%20orders%20in%20professional%20kitchen%2C%20food%20packaging%20process%2C%20modern%20delivery%20setup%20with%20smartphones%20and%20tablets%2C%20clean%20organized%20workspace&width=600&height=400&seq=20&orientation=landscape"
+          }
+
+        ],
+        "isPopular": true,
+        "isRecent": false
+      },
+      {
+        "title": "Entrepreneuriat & Commerce",
+        "count": 42,
+        "icon": "fa-briefcase",
+        "image":
+          "https://readdy.ai/api/search-image?query=Modern%2520African%2520business%2520training%2520center%2520with%2520students%2520in%2520workshop%252C%2520professional%2520presentation%2520setup%252C%2520collaborative%2520workspace%252C%2520warm%2520lighting&width=300&height=200&seq=domain8&orientation=landscape",
+        "formations": [
+          {
+            "title" : "Lancer une entreprise avec peu de moyens",
+            "description" : "Apprenez à créer une entreprise avec un budget limité et des ressources minimales.",
+            "duration": "3 mois",
+            "videos": 10,
+            "isPopular": true,
+            "isRecent": false,
+            "image" : "https://readdy.ai/api/search-image?query=African%20entrepreneur%20starting%20small%20business%20with%20minimal%20resources%2C%20working%20in%20a%20bright%20modern%20office%20space%20with%20African%20decor%2C%20professional%20setting%20with%20warm%20earthy%20tones%2C%20person%20looking%20motivated%20and%20determined&width=600&height=400&seq=1&orientation=landscape"
+          },
+          {
+            "title" : "Créer un business plan simple",
+            "description" : "Découvrez comment rédiger un business plan efficace et concis.",
+            "duration": "4 mois",
+            "videos": 12,
+            "isPopular": true,
+            "isRecent": false,
+            "image" : 	"https://readdy.ai/api/search-image?query=African%20business%20professional%20creating%20a%20business%20plan%2C%20working%20with%20documents%20and%20laptop%20in%20bright%20modern%20office%20with%20African-inspired%20decor%2C%20warm%20earthy%20tones%2C%20focused%20expression%2C%20professional%20setting&width=600&height=400&seq=2&orientation=landscape"
+          },
+          {
+            "title" : 	"Marketing digital de base",
+            "description" : 	"Apprenez les bases du marketing digital pour promouvoir votre entreprise en ligne.",
+            "duration": 	"3 mois",
+            "videos": 	10,
+            "isPopular": 	true,
+            "isRecent": 	false,
+            "image" : 	"https://readdy.ai/api/search-image?query=African%20digital%20marketing%20professional%20working%20with%20social%20media%20and%20analytics%20on%20computer%20screens%2C%20modern%20bright%20office%20with%20subtle%20African%20design%20elements%2C%20warm%20earthy%20color%20palette%2C%20professional%20business%20setting&width=600&height=400&seq=3&orientation=landscape"
+          },
+          {
+            "title" : "Vente sur les réseaux sociaux",
+            "description" : "Découvrez comment utiliser les réseaux sociaux pour vendre vos produits.",
+            "duration": "4 mois",
+            "videos": 12,
+            "isPopular": true,
+            "isRecent": false,
+            "image" : 	"https://readdy.ai/api/search-image?query=African%20entrepreneur%20selling%20products%20through%20social%20media%2C%20using%20smartphone%20and%20laptop%20with%20social%20media%20platforms%20visible%2C%20bright%20modern%20space%20with%20African-inspired%20decor%2C%20warm%20earthy%20tones%2C%20professional%20business%20setting&width=600&height=400&seq=4&orientation=landscape"
+          },
+          {
+            "title" : "Création de boutique e-commerce",
+            "description" : "Apprenez à créer une boutique en ligne pour vendre vos produits.",
+            "duration": "3 mois",
+            "videos": 10,
+            "isPopular": true,
+            "isRecent": false,
+            "image" : "https://readdy.ai/api/search-image?query=African%20business%20owner%20creating%20e-commerce%20website%2C%20working%20with%20computer%20showing%20online%20store%20interface%2C%20bright%20modern%20office%20with%20African%20design%20elements%2C%20warm%20earthy%20color%20palette%2C%20professional%20business%20setting&width=600&height=400&seq=5&orientation=landscape"
+          },
+          {
+            "title" : 	"Comptabilité pour entrepreneurs",
+            "description" : 	"Découvrez les bases de la comptabilité pour gérer vos finances.",
+            "duration": 	"4 mois",
+            "videos": 	12,
+            "isPopular": 	true,
+            "isRecent": 	false,
+            "image" : 	"https://readdy.ai/api/search-image?query=African%20financial%20professional%20teaching%20accounting%20to%20entrepreneurs%2C%20working%20with%20financial%20documents%20and%20calculator%2C%20bright%20modern%20classroom%20with%20African-inspired%20decor%2C%20warm%20earthy%20tones%2C%20professional%20business%20setting&width=600&height=400&seq=6&orientation=landscape"
+          },
+          {
+            "title" : 	"Étude de marché locale",
+            "description" : 	"Apprenez à réaliser une étude de marché pour évaluer la demande locale.",
+            "duration": 	"3 mois",
+            "videos": 	10,
+            "isPopular": 	true,
+            "isRecent": 	false,
+            "image" : 	"https://readdy.ai/api/search-image?query=African%20market%20research%20team%20analyzing%20local%20market%20data%2C%20working%20with%20charts%20and%20surveys%2C%20bright%20modern%20office%20with%20African%20design%20elements%2C%20warm%20earthy%20color%20palette%2C%20professional%20business%20setting&width=600&height=400&seq=7&orientation=landscape"
+          },
+          {
+            "title" : 	"Gestion d’équipe et leadership",
+            "description" : 	"Découvrez les compétences de gestion d'équipe et de leadership pour diriger efficacement.",
+            "duration": 	"4 mois",
+            "videos": 	12,
+            "isPopular": 	true,
+            "isRecent": 	false,
+            "image" : 	"https://readdy.ai/api/search-image?query=African%20business%20leader%20teaching%20team%20management%20skills%20to%20a%20diverse%20group%2C%20bright%20modern%20conference%20room%20with%20African-inspired%20decor%2C%20warm%20earthy%20tones%2C%20professional%20business%20setting%20with%20engaged%20participants&width=600&height=400&seq=8&orientation=landscape"
+          },
+          {
+            "title" : 	"Stratégies de fidélisation client",
+            "description" : 	"Apprenez à fidéliser vos clients et à améliorer leur satisfaction.",
+            "duration": 	"3 mois",
+            "videos": 	10,
+            "isPopular": 	true,
+            "isRecent": 	false,
+            "image" : 	"https://readdy.ai/api/search-image?query=African%20business%20professionals%20discussing%20customer%20loyalty%20strategies%2C%20analyzing%20customer%20data%20on%20computer%2C%20bright%20modern%20office%20with%20African%20design%20elements%2C%20warm%20earthy%20color%20palette%2C%20professional%20business%20setting&width=600&height=400&seq=9&orientation=landscape"
+          },
+          {
+            "title" : 	"Pitching et recherche de financement",
+            "description" : 	"Découvrez comment présenter votre projet aux investisseurs et obtenir des financements.",
+            "duration": 	"4 mois",
+            "videos": 	12,
+            "isPopular": 	true,
+            "isRecent": 	false,
+            "image" : 	"https://readdy.ai/api/search-image?query=African%20entrepreneur%20pitching%20business%20idea%20to%20potential%20investors%2C%20presenting%20with%20confidence%20in%20bright%20modern%20meeting%20room%20with%20African-inspired%20decor%2C%20warm%20earthy%20tones%2C%20professional%20business%20setting&width=600&height=400&seq=10&orientation=landscape"
+          }        
+        ],
+        "isPopular": true,
+        "isRecent": false
+      },
+      {
+        "title": "Beauté & Esthétique",
+        "count": 22,
+        "icon": "fa-spa",
+        "image":
+          "https://readdy.ai/api/search-image?query=Professional%2520African%2520beauty%2520school%2520with%2520modern%2520equipment%252C%2520students%2520practicing%2520beauty%2520treatments%252C%2520clean%2520elegant%2520workspace%252C%2520soft%2520lighting&width=300&height=200&seq=domain9&orientation=landscape",
+        "formations": [
+          {
+            "title": "Maquillage professionnel",
+            "description": "Apprenez les techniques de maquillage professionnel pour différents types d'événements.",
+            "duration": "3 mois",
+            "videos": 10,
+            "isPopular": true,
+            "isRecent": false,
+            "image": "https://readdy.ai/api/search-image?query=African%20makeup%20artist%20applying%20professional%20makeup%20on%20client%2C%20beauty%20salon%20with%20African-inspired%20decor%2C%20warm%20earthy%20tones%2C%20professional%20beauty%20setting%20with%20makeup%20products%20visible%2C%20bright%20clean%20environment&width=600&height=400&seq=11&orientation=landscape"
+          },
+          {
+            "title": "Soin de la peau et visage",
+            "description": "Découvrez les soins du visage et les techniques de nettoyage de la peau.",
+            "duration": "4 mois",
+            "videos": 12,
+            "isPopular": true,
+            "isRecent": false,
+            "image": "https://readdy.ai/api/search-image?query=African%20skincare%20specialist%20performing%20facial%20treatment%20on%20client%2C%20beauty%20salon%20with%20African-inspired%20decor%2C%20warm%20earthy%20tones%2C%20professional%20beauty%20setting%20with%20skincare%20products%20visible%2C%20bright%20clean%20environment&width=600&height=400&seq=12&orientation=landscape"
+          },
+          {
+            "title": "Coiffure africaine (nattes, tresses)",
+            "description": "Apprenez à réaliser des coiffures africaines traditionnelles et modernes.",
+            "duration": "3 mois",
+            "videos": 10,
+            "isPopular": true,
+            "isRecent": false,
+            "image": "https://readdy.ai/api/search-image?query=African%20hairstylist%20creating%20traditional%20braids%20and%20plaits%20on%20client%2C%20beauty%20salon%20with%20African-inspired%20decor%2C%20warm%20earthy%20tones%2C%20professional%20beauty%20setting%20with%20hair%20products%20visible%2C%20bright%20clean%20environment&width=600&height=400&seq=13&orientation=landscape"
+          },
+          {
+            "title": "Pose de faux ongles",
+            "description": "Découvrez les techniques de pose de faux ongles et de nail art.",
+            "duration": "4 mois",
+            "videos": 12,
+            "isPopular": true,
+            "isRecent": false,
+            "image":"https://readdy.ai/api/search-image?query=African%20nail%20technician%20applying%20artificial%20nails%20on%20client%2C%20beauty%20salon%20with%20African-inspired%20decor%2C%20warm%20earthy%20tones%2C%20professional%20beauty%20setting%20with%20nail%20products%20visible%2C%20bright%20clean%20environment&width=600&height=400&seq=14&orientation=landscape"
+          },
+          {
+            "title": "Esthétique des pieds (pédicure)",
+            "description": "Apprenez les techniques de pédicure et de soin des pieds.",
+            "duration": "3 mois",
+            "videos": 10,
+            "isPopular": true,
+            "isRecent": false,
+            "image": "https://readdy.ai/api/search-image?query=African%20pedicurist%20performing%20professional%20pedicure%20treatment%2C%20beauty%20salon%20with%20African-inspired%20decor%2C%20warm%20earthy%20tones%2C%20professional%20beauty%20setting%20with%20foot%20care%20products%20visible%2C%20bright%20clean%20environment&width=600&height=400&seq=15&orientation=landscape"
+          },
+          {
+            "title": "Soins capillaires naturels",
+            "description": "Découvrez les soins capillaires naturels et les techniques de coiffure.",
+            "duration": "4 mois",
+            "videos": 12,
+            "isPopular": true,
+            "isRecent": false,
+            "image": "https://readdy.ai/api/search-image?query=African%20hair%20care%20specialist%20teaching%20natural%20hair%20care%20techniques%2C%20beauty%20salon%20with%20African-inspired%20decor%2C%20warm%20earthy%20tones%2C%20professional%20beauty%20setting%20with%20natural%20hair%20products%20visible%2C%20bright%20clean%20environment&width=600&height=400&seq=16&orientation=landscape"
+          },
+          {
+            "title": "Création de produits cosmétiques bio",
+            "description": "Apprenez à créer des produits cosmétiques naturels et bio.",
+            "duration": "3 mois",
+            "videos": 10,
+            "isPopular": true,
+            "isRecent": false,
+            "image":  "https://readdy.ai/api/search-image?query=African%20cosmetic%20formulator%20creating%20organic%20beauty%20products%2C%20laboratory%20with%20African-inspired%20decor%2C%20warm%20earthy%20tones%2C%20professional%20setting%20with%20natural%20ingredients%20and%20mixing%20equipment%20visible%2C%20bright%20clean%20environment&width=600&height=400&seq=17&orientation=landscape"
+          },
+          {
+            "title": "Hygiène et sécurité en salon",
+            "description": "Découvrez les normes d'hygiène et de sécurité à respecter dans un salon de beauté.",
+            "duration": "2 mois",
+            "videos": 8,
+            "isPopular": true,
+            "isRecent": false,
+            "image":  "https://readdy.ai/api/search-image?query=African%20beauty%20professional%20demonstrating%20salon%20hygiene%20and%20safety%20protocols%2C%20beauty%20salon%20with%20African-inspired%20decor%2C%20warm%20earthy%20tones%2C%20professional%20beauty%20setting%20with%20cleaning%20and%20safety%20equipment%20visible%2C%20bright%20clean%20environment&width=600&height=400&seq=18&orientation=landscape"
+          },
+          {
+            "title": "Extension de cils et sourcils",
+            "description": "Apprenez les techniques d'extension de cils et de sourcils.",
+            "duration": "3 mois",
+            "videos": 10,
+            "isPopular": true,
+            "isRecent": false,
+            "image": "https://readdy.ai/api/search-image?query=African%20lash%20technician%20applying%20eyelash%20extensions%20on%20client%2C%20beauty%20salon%20with%20African-inspired%20decor%2C%20warm%20earthy%20tones%2C%20professional%20beauty%20setting%20with%20lash%20extension%20products%20visible%2C%20bright%20clean%20environment&width=600&height=400&seq=19&orientation=landscape"
+          },
+          {
+            "title": "Création d’un salon de beauté",
+            "description": "Découvrez comment créer et gérer un salon de beauté.",
+            "duration": "4 mois",
+            "videos": 12,
+            "isPopular": true,
+            "isRecent": false,
+            "image": "https://readdy.ai/api/search-image?query=African%20beauty%20entrepreneur%20planning%20salon%20layout%20and%20design%2C%20modern%20beauty%20salon%20with%20African-inspired%20decor%2C%20warm%20earthy%20tones%2C%20professional%20beauty%20setting%20with%20business%20plans%20and%20design%20elements%20visible%2C%20bright%20clean%20environment&width=600&height=400&seq=20&orientation=landscape"
+          }
+        ],
+        "isPopular": true,
+        "isRecent": true
+      },
+      {
+        "title": "Digital & Médias",
+        "count": 33,
+        "icon": "fa-camera",
+        "image":
+          "https://readdy.ai/api/search-image?query=Modern%2520African%2520media%2520production%2520studio%2520with%2520cameras%252C%2520editing%2520stations%252C%2520and%2520recording%2520equipment%252C%2520students%2520working%2520on%2520digital%2520content%252C%2520professional%2520environment&width=300&height=200&seq=domain10&orientation=landscape",
+        "formations": [
+          {
+            "title" : "Montage vidéo avec CapCut ou Premiere",
+            "description" : "Apprenez à monter des vidéos professionnelles avec CapCut ou Premiere.",
+            "duration": "3 mois",
+            "videos": 10,
+            "isPopular": true,
+            "isRecent": false,
+            "image" : "https://readdy.ai/api/search-image?query=Professional%20video%20editing%20workspace%20with%20modern%20equipment%20in%20African%20studio%20setting%2C%20warm%20lighting%2C%20traditional%20African%20patterns%20on%20the%20wall%2C%20high-quality%20camera%20and%20editing%20software%20visible%20on%20screen&width=400&height=300&seq=1&orientation=landscape"
+          },
+          {
+            "title" : "Graphisme avec Canva et Photoshop",
+            "description" : "Découvrez les bases du graphisme avec Canva et Photoshop.",
+            "duration": "4 mois",
+            "videos": 12,
+            "isPopular": true,
+            "isRecent": false,
+            "image" : 	"https://readdy.ai/api/search-image?query=African%20designer%20working%20on%20graphic%20design%20project%20using%20Canva%20and%20Photoshop%2C%20creative%20workspace%20with%20traditional%20African%20art%20elements%2C%20colorful%20design%20samples%20on%20wall%2C%20modern%20computer%20setup&width=400&height=300&seq=2&orientation=landscape"
+          },
+          {
+            "title" : 	"Photographie mobile pro",
+            "description" : 	"Apprenez à prendre des photos professionnelles avec votre smartphone.",
+            "duration": 	"3 mois",
+            "videos": 	10,
+            "isPopular": 	true,
+            "isRecent": 	false,
+            "image" : 	"https://readdy.ai/api/search-image?query=African%20photographer%20teaching%20mobile%20photography%20techniques%20outdoors%2C%20group%20of%20students%20with%20smartphones%2C%20beautiful%20African%20landscape%2C%20golden%20hour%20lighting%2C%20professional%20mobile%20photography%20equipment&width=400&height=300&seq=3&orientation=landscape"
+          },
+          {
+            "title" : "Animation sur réseaux sociaux",
+            "description" : "Découvrez comment créer des animations pour les réseaux sociaux.",
+            "duration": "4 mois",
+            "videos": 12,
+            "isPopular": true,
+            "isRecent": false,
+            "image" : "https://readdy.ai/api/search-image?query=African%20social%20media%20manager%20working%20with%20multiple%20screens%20showing%20various%20social%20platforms%2C%20vibrant%20office%20space%20with%20African%20decor%2C%20analytics%20charts%20visible%2C%20team%20collaboration%20in%20modern%20African%20office%20setting&width=400&height=300&seq=4&orientation=landscape"
+          },
+          {
+            "title" : 	"Gestion de page Facebook et Instagram",
+            "description" : 	"Apprenez à gérer efficacement une page Facebook et Instagram.",
+            "duration": 	"3 mois",
+            "videos": 	10,
+            "isPopular": 	true,
+            "isRecent": 	false,
+            "image" : "https://readdy.ai/api/search-image?query=African%20social%20media%20manager%20working%20on%20multiple%20screens%20showing%20Facebook%20and%20Instagram%20analytics%2C%20modern%20office%20with%20traditional%20African%20decor%2C%20professional%20workspace%20with%20social%20media%20dashboard&width=400&height=300&seq=14&orientation=landscape"
+          },
+          {
+            "title" : 	"Création de contenus TikTok",
+            "description" : 	"Découvrez comment créer des contenus engageants pour TikTok.",
+            "duration": 	"4 mois",
+            "videos": 	12,
+            "isPopular": 	true,
+            "isRecent": 	false,
+            "image" : 	"https://readdy.ai/api/search-image?query=Young%20African%20content%20creators%20filming%20TikTok%20video%20in%20modern%20studio%2C%20ring%20lights%20and%20smartphones%20visible%2C%20colorful%20backdrop%20with%20African%20patterns%2C%20professional%20recording%20equipment&width=400&height=300&seq=15&orientation=landscape"
+          },
+          {
+            "title" : 	"YouTube : créer une chaîne et monétiser",
+            "description" : 	"Apprenez à créer une chaîne YouTube et à la monétiser.",
+            "duration": 	"3 mois",
+            "videos": 	10,
+            "isPopular": 	true,
+            "isRecent": 	false,
+            "image" : 	"https://readdy.ai/api/search-image?query=African%20YouTuber%20recording%20in%20professional%20studio%20setup%2C%20multiple%20cameras%20and%20lighting%20equipment%2C%20editing%20station%20visible%2C%20traditional%20African%20art%20decor%20on%20walls&width=400&height=300&seq=16&orientation=landscape"
+          },
+          {
+            "title" : 	"Podcasting avec smartphone",
+            "description" : 	"Découvrez comment créer un podcast avec votre smartphone.",
+            "duration": 	"4 mois",
+            "videos": 	12,
+            "isPopular": 	true,
+            "isRecent": 	false,
+            "image" : "https://readdy.ai/api/search-image?query=African%20podcast%20host%20recording%20with%20smartphone%20and%20professional%20microphone%20in%20home%20studio%20setting%2C%20sound%20absorption%20panels%2C%20traditional%20African%20decor%20elements&width=400&height=300&seq=17&orientation=landscape"
+          },
+          {
+            "title" : 	"Publicité Facebook Ads et Google Ads",
+            "description" : 	"Apprenez à créer des publicités efficaces sur Facebook et Google.",
+            "duration": 	"3 mois",
+            "videos": 	10,
+            "isPopular": 	true,
+            "isRecent": 	false,
+            "image" : 	"https://readdy.ai/api/search-image?query=African%20digital%20marketing%20professional%20analyzing%20ad%20campaigns%20on%20multiple%20screens%2C%20modern%20office%20with%20traditional%20elements%2C%20analytics%20dashboards%20visible&width=400&height=300&seq=18&orientation=landscape"
+          },
+          {
+            "title" : 	"Community management",
+            "description" : 	"Découvrez les bases du community management pour gérer une communauté en ligne.",
+            "duration": 	"4 mois",
+            "videos": 	12,
+            "isPopular": 	true,
+            "isRecent": 	false,
+            "image" : 	"https://readdy.ai/api/search-image?query=African%20community%20manager%20engaging%20with%20social%20media%20on%20multiple%20devices%2C%20modern%20collaborative%20workspace%2C%20traditional%20African%20art%20elements%2C%20team%20discussing%20social%20media%20strategy&width=400&height=300&seq=19&orientation=landscape"
+          }
+        ],
+        "isPopular": true,
+        "isRecent": true
+      },
+      {
+        "title": "Santé & Bien-être",
+        "count": 29,
+        "icon": "fa-heartbeat",
+        "image":
+          "https://readdy.ai/api/search-image?query=Modern%2520African%2520healthcare%2520training%2520facility%2520with%2520medical%2520equipment%252C%2520students%2520learning%2520healthcare%2520techniques%252C%2520clean%2520clinical%2520environment%252C%2520professional%2520medical%2520training%2520setting&width=300&height=200&seq=domain11&orientation=landscape",
+        "formations": [
+          {
+            "title" : "Soins infirmiers de base",
+            "description" : "Apprenez les compétences de base en soins infirmiers pour aider les patients.",
+            "duration": "4 mois",
+            "videos": 12,
+            "isPopular": true,
+            "isRecent": false,
+            "image" : "https://readdy.ai/api/search-image?query=African%20nurse%20teaching%20basic%20nursing%20care%20in%20a%20modern%20classroom%20with%20medical%20equipment%2C%20students%20practicing%20on%20mannequins%2C%20bright%20well-equipped%20training%20facility%20with%20traditional%20African%20art%20elements&width=400&height=300&seq=5&orientation=landscape"
+          },
+          {
+            "title" : "Prévention et gestion du stress",
+            "description" : "Découvrez les techniques de gestion du stress pour améliorer votre bien-être.",
+            "duration": "3 mois",
+            "videos": 10,
+            "isPopular": true,
+            "isRecent": false,
+            "image" : "https://readdy.ai/api/search-image?query=Stress%20management%20workshop%20in%20African%20setting%2C%20participants%20in%20meditation%20pose%2C%20calming%20natural%20environment%2C%20instructor%20demonstrating%20breathing%20techniques%2C%20peaceful%20atmosphere%20with%20traditional%20elements&width=400&height=300&seq=6&orientation=landscape"
+          },
+          {
+            "title" : 	"Massage thérapeutique",
+            "description" : 	"Apprenez les techniques de massage thérapeutique pour soulager le stress.",
+            "duration": 	"4 mois",
+            "videos": 	12,
+            "isPopular": 	true,
+            "isRecent": 	false,
+            "image" : "https://readdy.ai/api/search-image?query=Therapeutic%20massage%20training%20in%20African%20wellness%20center%2C%20instructor%20demonstrating%20techniques%2C%20students%20practicing%20on%20massage%20tables%2C%20natural%20decor%20with%20plants%2C%20warm%20lighting%20and%20traditional%20African%20wellness%20elements&width=400&height=300&seq=7&orientation=landscape"
+          },
+          {
+            "title" : 	"Nutrition et diététique",
+            "description" : "Découvrez les bases de la nutrition et de la diététique pour une vie saine.",
+            "duration": 	"3 mois",
+            "videos": 	10,
+            "isPopular": 	true,
+            "isRecent": 	false,
+            "image" : 	"https://readdy.ai/api/search-image?query=African%20nutritionist%20explaining%20healthy%20eating%20with%20local%20produce%20display%2C%20modern%20consultation%20room%2C%20educational%20nutrition%20charts%20with%20traditional%20African%20foods&width=400&height=300&seq=23&orientation=landscape"
+          },
+          {
+            "title" : 	"Premiers secours et secourisme",
+            "description" : 	"Apprenez les techniques de premiers secours pour sauver des vies.",
+            "duration": 	"4 mois",
+            "videos": 	12,
+            "isPopular": 	true,
+            "isRecent": 	false,
+            "image" :  "https://readdy.ai/api/search-image?query=First%20aid%20training%20in%20African%20setting%2C%20instructor%20demonstrating%20CPR%20techniques%2C%20modern%20medical%20equipment%2C%20traditional%20African%20medical%20center%20environment&width=400&height=300&seq=24&orientation=landscape"
+          },
+          {
+            "title" : 	"Yoga et bien-être",
+            "description" : 	"Découvrez les techniques de yoga et de méditation pour améliorer votre bien-être.",
+            "duration": 	"3 mois",
+            "videos": 	10,
+            "isPopular": 	true,
+            "isRecent": 	false,
+            "image" : 	"https://readdy.ai/api/search-image?query=Yoga%20class%20in%20serene%20African%20setting%2C%20instructor%20leading%20session%2C%20peaceful%20outdoor%20space%20with%20traditional%20African%20elements%2C%20natural%20lighting%20and%20calming%20environment&width=400&height=300&seq=25&orientation=landscape"
+          },
+          {
+            "title" : 	"Médecine traditionnelle africaine",
+            "description" : 	"Découvrez les pratiques de la médecine traditionnelle africaine.",
+            "duration": 	"4 mois",
+            "videos": 	12,
+            "isPopular": 	true,
+            "isRecent": 	false,
+            "image" : 	"https://readdy.ai/api/search-image?query=Traditional%20African%20medicine%20class%20with%20elder%20healer%20showing%20medicinal%20herbs%20and%20plants%2C%20students%20taking%20notes%2C%20display%20of%20traditional%20remedies%2C%20outdoor%20learning%20environment%20with%20natural%20African%20landscape&width=400&height=300&seq=8&orientation=landscape"
+          },
+          {
+            "title" : 	"Soutien psychologique et écoute active",
+            "description" : 	"Apprenez les techniques de soutien psychologique et d'écoute active.",
+            "duration": 	"3 mois",
+            "videos": 	10,
+            "isPopular": 	true,
+            "isRecent": 	false,
+            "image" : "https://readdy.ai/api/search-image?query=African%20counselor%20conducting%20therapy%20session%20in%20warm%20welcoming%20office%2C%20comfortable%20seating%20area%2C%20calming%20decor%20with%20traditional%20African%20elements%2C%20professional%20counseling%20environment&width=400&height=300&seq=20&orientation=landscape"
+          },
+          {
+            "title" : 	"Fitness et entraînement physique",
+            "description" : 	"Découvrez les techniques de fitness et d'entraînement physique.",
+            "duration": 	"4 mois",
+            "videos": 	12,
+            "isPopular": 	true,
+            "isRecent": 	false,
+            "image" : "https://readdy.ai/api/search-image?query=Modern%20African%20fitness%20center%20with%20trainer%20demonstrating%20exercises%2C%20diverse%20group%20workout%20session%2C%20professional%20equipment%2C%20motivational%20posters%20with%20African%20design%20elements&width=400&height=300&seq=21&orientation=landscape"
+          },
+          {
+            "title" : 	"Santé publique et gestion des urgences",
+            "description" : 	"Découvrez les bases de la santé publique et de la gestion des urgences.",
+            "duration": 	"3 mois",
+            "videos": 	10,
+            "isPopular": 	true,
+            "isRecent": 	false,
+            "image" : "https://readdy.ai/api/search-image?query=African%20healthcare%20professionals%20in%20emergency%20response%20training%2C%20modern%20medical%20facility%2C%20simulation%20exercise%2C%20traditional%20African%20healthcare%20education%20posters&width=400&height=300&seq=22&orientation=landscape"
+          }
+
+        ],
+        "isPopular": true,
+        "isRecent": false
+      },
+      {
+        "title": "Langues & Communication",
+        "count": 26,
+        "icon": "fa-comments",
+        "image":
+              "https://readdy.ai/api/search-image?query=Modern%2520African%2520language%2520learning%2520classroom%2520with%2520students%2520engaged%2520in%2520conversation%252C%2520interactive%2520displays%252C%2520bright%2520educational%2520environment%252C%2520professional%2520language%2520training%2520setting&width=300&height=200&seq=domain12&orientation=landscape",
+        "formations": [
+          {
+            "title" : "Apprentissage de l'anglais pour débutants",
+            "description" : "Apprenez les bases de l'anglais pour communiquer efficacement.",
+            "duration": "3 mois",
+            "videos": 10,
+            "isPopular": true,
+            "isRecent": false,
+            "image" : "https://readdy.ai/api/search-image?query=African%20classroom%20setting%20with%20students%20learning%20English%2C%20colorful%20traditional%20African%20patterns%20on%20walls%2C%20warm%20lighting%2C%20educational%20materials%20with%20African%20motifs%2C%20modern%20learning%20environment%20with%20cultural%20elements&width=600&height=400&seq=1&orientation=landscape"
+          },
+          {
+            "title" : "Communication interculturelle",
+            "description" : "Découvrez les techniques de communication interculturelle pour mieux interagir avec les autres cultures.",
+            "duration": "4 mois",
+            "videos": 12,
+            "isPopular": true,
+            "isRecent": false,
+            "image" : "https://readdy.ai/api/search-image?query=Diverse%20group%20of%20African%20professionals%20in%20a%20meeting%20room%20discussing%20cultural%20communication%2C%20traditional%20African%20art%20on%20walls%2C%20modern%20business%20setting%20with%20cultural%20elements%2C%20warm%20earthy%20colors%2C%20educational%20environment&width=600&height=400&seq=2&orientation=landscape"
+          },
+          {
+            "title" : "Rédaction professionnelle",
+            "description" : "Apprenez à rédiger des documents professionnels de manière efficace.",
+            "duration": "3 mois",
+            "videos": 10,
+            "isPopular": true,
+            "isRecent": false,
+            "image" : "https://readdy.ai/api/search-image?query=African%20professional%20writing%20workshop%2C%20people%20taking%20notes%2C%20traditional%20African%20decor%20elements%2C%20warm%20lighting%2C%20educational%20setting%20with%20African%20textiles%20and%20patterns%2C%20modern%20classroom%20with%20cultural%20touches&width=600&height=400&seq=3&orientation=landscape"
+          },
+          {
+            "title" : "Traduction et interprétation",
+            "description" : "Découvrez les techniques de traduction et d'interprétation pour les langues africaines.",
+            "duration": "4 mois",
+            "videos": 12,
+            "isPopular": true,
+            "isRecent": false,
+            "image" : "https://readdy.ai/api/search-image?query=African%20public%20speaking%20workshop%2C%20person%20presenting%20to%20audience%2C%20traditional%20meeting%20space%20with%20African%20decor%2C%20warm%20lighting%2C%20educational%20environment%20with%20cultural%20elements%2C%20professional%20setting%20with%20African%20art&width=600&height=400&seq=5&orientation=landscape"
+          },
+          {
+            "title" : "Techniques de prise de parole en public",
+            "description" : "Apprenez à parler en public avec confiance et aisance.",
+            "duration": "3 mois",
+            "videos": 10,
+            "isPopular": true,
+            "isRecent": false,
+            "image" : "https://readdy.ai/api/search-image?query=African%20public%20speaking%20workshop%2C%20person%20presenting%20to%20audience%2C%20traditional%20meeting%20space%20with%20African%20decor%2C%20warm%20lighting%2C%20educational%20environment%20with%20cultural%20elements%2C%20professional%20setting%20with%20African%20art&width=600&height=400&seq=5&orientation=landscape"
+          },
+          {
+            "title" : "Apprentissage du français pour étrangers",
+            "description" : "Découvrez les bases du français pour communiquer efficacement.",
+            "duration": "4 mois",
+            "videos": 12,
+            "isPopular": true,
+            "isRecent": false,
+            "image" : "https://readdy.ai/api/search-image?query=African%20classroom%20with%20students%20learning%20French%2C%20traditional%20decorative%20elements%2C%20warm%20earthy%20colors%2C%20educational%20materials%20with%20African%20motifs%2C%20modern%20learning%20environment%20with%20cultural%20touches&width=600&height=400&seq=6&orientation=landscape"
+          },
+          {
+            "title" : "Communication en entreprise",
+            "description" : "Découvrez les techniques de communication en entreprise pour améliorer vos compétences professionnelles.",
+            "duration": "3 mois",
+            "videos": 10,
+            "isPopular": true,
+            "isRecent": false,
+            "image" : "https://readdy.ai/api/search-image?query=Professional%20African%20business%20meeting%20room%20with%20traditional%20decor%20elements%2C%20people%20engaged%20in%20corporate%20communication%20training%2C%20warm%20lighting%2C%20modern%20office%20with%20cultural%20touches%20and%20African%20art%20pieces&width=600&height=400&seq=13&orientation=landscape"
+          },
+          {
+            "title" : "Langues des signes",
+            "description" : "Découvrez les bases de la langue des signes pour communiquer avec les personnes sourdes.",
+            "duration": "4 mois",
+            "videos": 12,
+            "isPopular": true,
+            "isRecent": false,
+            "image" : "https://readdy.ai/api/search-image?query=African%20sign%20language%20class%2C%20diverse%20group%20learning%20hand%20gestures%2C%20warm%20educational%20environment%2C%20traditional%20African%20decor%20elements%2C%20inclusive%20classroom%20setting%20with%20cultural%20touches&width=600&height=400&seq=12&orientation=landscape"
+          },
+          {
+            "title" : "Journalisme et rédaction",
+            "description" : "Apprenez les techniques de journalisme et de rédaction pour les médias.",
+            "duration": "3 mois",
+            "videos": 10,
+            "isPopular": true,
+            "isRecent": false,
+            "image" : "https://readdy.ai/api/search-image?query=African%20journalism%20workshop%20with%20reporters%20working%20on%20stories%2C%20traditional%20office%20setting%20with%20cultural%20elements%2C%20modern%20newsroom%20environment%2C%20warm%20lighting%2C%20professional%20workspace%20with%20African%20artistic%20touches&width=600&height=400&seq=14&orientation=landscape"
+          },
+          {
+            "title" : "Marketing de contenu",
+            "description" : "Découvrez les techniques de marketing de contenu pour promouvoir votre entreprise.",
+            "duration": "4 mois",
+            "videos": 12,
+            "isPopular": true,
+            "isRecent": false,
+            "image" : "https://readdy.ai/api/search-image?query=African%20marketing%20professionals%20working%20on%20content%20strategy%2C%20modern%20office%20with%20traditional%20decor%2C%20digital%20screens%20showing%20content%2C%20warm%20lighting%2C%20creative%20workspace%20with%20cultural%20elements&width=600&height=400&seq=15&orientation=landscape"
+          }
+
+        ],
+        "isPopular": false,
+        "isRecent": false
+      },
+      {
+        "title": "Artisanat",
+        "count": 20,
+        "icon": "fa-hands",
+        "image":
+                "https://readdy.ai/api/search-image?query=Modern%2520African%2520craft%2520workshop%2520with%2520students%2520creating%2520handmade%2520items%252C%2520traditional%2520and%2520contemporary%2520tools%252C%2520bright%2520creative%2520space%252C%2520professional%2520craftsmanship%2520training&width=300&height=200&seq=domain13&orientation=landscape",
+        "formations": [
+          {
+            "title": "Métiers du cuir",
+            "description": "Apprenez les techniques de fabrication d'articles en cuir.",
+            "duration": "4 mois",
+            "videos": 12,
+            "isPopular": true,
+            "isRecent": false,
+            "image": "https://readdy.ai/api/search-image?query=African%20leather%20craftsman%20workshop%2C%20traditional%20tools%20and%20materials%2C%20warm%20lighting%2C%20handcrafted%20leather%20goods%20with%20African%20patterns%2C%20artisanal%20workspace%20with%20cultural%20elements%2C%20earthy%20color%20palette&width=600&height=400&seq=7&orientation=landscape"
+          },
+          {
+            "title": "Art de la poterie",
+            "description": "Découvrez les techniques de poterie traditionnelle et moderne.",
+            "duration": "3 mois",
+            "videos": 10,
+            "isPopular": true,
+            "isRecent": false,
+            "image": "https://readdy.ai/api/search-image?query=African%20pottery%20workshop%2C%20traditional%20clay%20techniques%2C%20artisan%20creating%20pottery%20with%20African%20designs%2C%20warm%20earthy%20tones%2C%20cultural%20patterns%2C%20handcrafting%20environment%20with%20traditional%20tools%20and%20materials&width=600&height=400&seq=8&orientation=landscape"
+          },
+          {
+            "title": "Fabrication de bijoux artisanaux",
+            "description": "Apprenez à créer des bijoux uniques avec des matériaux locaux.",
+            "duration": "4 mois",
+            "videos": 12,
+            "isPopular": true,
+            "isRecent": false,
+            "image": "https://readdy.ai/api/search-image?query=African%20jewelry%20making%20workshop%2C%20artisan%20creating%20traditional%20beaded%20jewelry%2C%20colorful%20beads%20and%20materials%2C%20warm%20lighting%2C%20cultural%20patterns%20and%20designs%2C%20handcrafting%20environment%20with%20traditional%20tools&width=600&height=400&seq=9&orientation=landscape"
+          },
+          {
+            "title": "Serrurerie et métallurgie",
+            "description": "Découvrez les techniques de serrurerie et de métallurgie.",
+            "duration": "3 mois",
+            "videos": 10,
+            "isPopular": true,
+            "isRecent": false,
+            "image": "https://readdy.ai/api/search-image?query=African%20metalworking%20workshop%20with%20traditional%20tools%20and%20techniques%2C%20artisan%20working%20with%20metal%2C%20warm%20lighting%20from%20forge%2C%20cultural%20patterns%20in%20metalwork%2C%20traditional%20craftsmanship%20environment&width=600&height=400&seq=16&orientation=landscape"
+          },
+          {
+            "title": "Marbrerie et sculpture",
+            "description": "Apprenez les techniques de marbrerie et de sculpture.",
+            "duration": "4 mois",
+            "videos": 12,
+            "isPopular": true,
+            "isRecent": false,
+            "image": "https://readdy.ai/api/search-image?query=African%20sculptor%20working%20on%20marble%20piece%20with%20traditional%20patterns%2C%20artistic%20workshop%20environment%2C%20tools%20and%20materials%2C%20warm%20lighting%2C%20cultural%20elements%20in%20stone%20work&width=600&height=400&seq=17&orientation=landscape"
+          },
+          {
+            "title": "Ébénisterie et menuiserie",
+            "description": "Découvrez les techniques d'ébénisterie et de menuiserie.",
+            "duration": "3 mois",
+            "videos": 10,
+            "isPopular": true,
+            "isRecent": false,
+            "image": "https://readdy.ai/api/search-image?query=African%20woodworking%20workshop%20with%20traditional%20tools%2C%20craftsman%20working%20on%20wooden%20furniture%20with%20cultural%20designs%2C%20warm%20lighting%2C%20traditional%20patterns%20in%20woodwork%2C%20artisanal%20environment&width=600&height=400&seq=18&orientation=landscape"
+          },
+          {
+            "title": "Création de textiles artisanaux",
+            "description": "Apprenez à créer des textiles uniques avec des techniques traditionnelles.",
+            "duration": "4 mois",
+            "videos": 12,
+            "isPopular": true,
+            "isRecent": false,
+            "image": "https://readdy.ai/api/search-image?query=African%20textile%20workshop%20with%20traditional%20looms%20and%20weaving%20techniques%2C%20artisan%20creating%20colorful%20fabrics%20with%20cultural%20patterns%2C%20warm%20lighting%2C%20handcraft%20environment%20with%20traditional%20tools&width=600&height=400&seq=19&orientation=landscape"
+          },
+          {
+            "title": "Peinture sur toile",
+            "description": "Découvrez les techniques de peinture sur toile.",
+            "duration": "3 mois",
+            "videos": 10,
+            "isPopular": true,
+            "isRecent": false,
+            "image": "https://readdy.ai/api/search-image?query=African%20painting%20workshop%2C%20artist%20working%20on%20canvas%20with%20traditional%20African%20motifs%2C%20colorful%20paints%20and%20materials%2C%20warm%20studio%20lighting%2C%20cultural%20art%20elements%2C%20creative%20environment%20with%20African%20inspiration&width=600&height=400&seq=10&orientation=landscape"
+          },
+          {
+            "title": "Couture et mode",
+            "description": "Apprenez les techniques de couture et de création de vêtements.",
+            "duration": "4 mois",
+            "videos": 12,
+            "isPopular": true,
+            "isRecent": false,
+            "image":  "https://readdy.ai/api/search-image?query=African%20fashion%20design%20workshop%2C%20seamstress%20working%20with%20colorful%20African%20fabrics%2C%20traditional%20patterns%2C%20warm%20lighting%2C%20cultural%20textile%20elements%2C%20creative%20sewing%20environment%20with%20African%20inspiration&width=600&height=400&seq=11&orientation=landscape"
+          },
+          {
+            "title": "Ferronnerie d'art",
+            "description": "Découvrez les techniques de ferronnerie d'art.",
+            "duration": "3 mois",
+            "videos": 10,
+            "isPopular": true,
+            "isRecent": false,
+            "image": "https://readdy.ai/api/search-image?query=African%20artistic%20metalworking%20studio%20with%20ornate%20ironwork%20designs%2C%20craftsman%20creating%20decorative%20pieces%2C%20traditional%20forge%20environment%2C%20warm%20lighting%2C%20cultural%20patterns%20in%20metal%20art&width=600&height=400&seq=20&orientation=landscape"
+          }
+        ],
+        "isPopular": false,
+        "isRecent": false
+      },
+      {
+        "title": "Marketing Digital",
+        "count": 31,
+        "icon": "fa-bullhorn",
+        "image":
+            "https://readdy.ai/api/search-image?query=Modern%2520African%2520digital%2520marketing%2520training%2520room%2520with%2520students%2520analyzing%2520campaigns%2520on%2520computers%252C%2520data%2520visualizations%2520on%2520screens%252C%2520professional%2520marketing%2520environment&width=300&height=200&seq=domain14&orientation=landscape",
+        "formations": [
+          {
+            "title" : "SEO (Search Engine Optimization)",
+            "description" : "Apprenez à optimiser votre site web pour les moteurs de recherche.",
+            "duration": "4 mois",
+            "videos": 12,
+            "isPopular": true,
+            "isRecent": false,
+            "image" : "https://readdy.ai/api/search-image?query=African%20professional%20working%20on%20SEO%20optimization%20with%20laptop%20in%20modern%20office%2C%20charts%20and%20graphs%20showing%20website%20ranking%2C%20warm%20lighting%2C%20professional%20setting%2C%20clean%20background&width=400&height=300&seq=1&orientation=landscape"
+          },
+          {
+            "title" : "Publicité sur les réseaux sociaux",
+            "description" : "Apprenez à créer des publicités efficaces sur Facebook et Google.",
+            "duration": "3 mois",
+            "videos": 10,
+            "isPopular": true,
+            "isRecent": false,
+            "image" : "https://readdy.ai/api/search-image?query=African%20marketing%20team%20analyzing%20social%20media%20campaigns%20on%20multiple%20screens%2C%20colorful%20social%20media%20icons%2C%20professional%20office%20environment%2C%20warm%20lighting%2C%20clean%20background&width=400&height=300&seq=2&orientation=landscape"
+          },
+          {
+            "title" : "Création de contenu digital",
+            "description" : "Apprenez à créer du contenu engageant pour les réseaux sociaux.",
+            "duration": "4 mois",
+            "videos": 12,
+            "isPopular": true,
+            "isRecent": false,
+            "image" : "https://readdy.ai/api/search-image?query=African%20content%20creator%20working%20on%20digital%20content%2C%20camera%2C%20laptop%2C%20smartphone%20on%20desk%2C%20creative%20workspace%2C%20warm%20lighting%2C%20clean%20background&width=400&height=300&seq=4&orientation=landscape"
+          },
+          {
+            "title" : "Analyse des données marketing",
+            "description" : "Découvrez comment analyser les données pour améliorer vos campagnes.",
+            "duration": "3 mois",
+            "videos": 10,
+            "isPopular": true,
+            "isRecent": false,
+            "image" : "https://readdy.ai/api/search-image?query=African%20data%20analyst%20examining%20marketing%20analytics%20dashboards%20on%20multiple%20screens%2C%20data%20visualization%2C%20professional%20office%20environment%2C%20warm%20lighting%2C%20clean%20background&width=400&height=300&seq=7&orientation=landscape"
+          },
+          {
+            "title" : "Création de sites web et e-commerce",
+            "description" : "Apprenez à créer des sites web et des boutiques en ligne.",
+            "duration": "4 mois",
+            "videos": 12,
+            "isPopular": true,
+            "isRecent": false,
+            "image" : "https://readdy.ai/api/search-image?query=African%20web%20developer%20working%20on%20e-commerce%20website%20design%2C%20code%20visible%20on%20screen%2C%20product%20layouts%2C%20professional%20workspace%2C%20warm%20lighting%2C%20clean%20background&width=400&height=300&seq=8&orientation=landscape"
+          },
+          {
+            "title" : "Web analytics et SEO",
+            "description" : "Découvrez les bases de l'analyse web et du SEO.",
+            "duration": "3 mois",
+            "videos": 10,
+            "isPopular": true,
+            "isRecent": false,
+            "image" : "https://readdy.ai/api/search-image?query=African%20SEO%20specialist%20analyzing%20website%20performance%20metrics%2C%20analytics%20dashboard%20with%20graphs%2C%20professional%20office%20setting%2C%20warm%20lighting%2C%20clean%20background&width=400&height=300&seq=9&orientation=landscape"
+          },
+          {
+            "title" : "Gestion de la réputation en ligne",
+            "description" : "Apprenez à gérer votre réputation en ligne.",
+            "duration": "4 mois",
+            "videos": 12,
+            "isPopular": true,
+            "isRecent": false,
+            "image" : "https://readdy.ai/api/search-image?query=African%20professional%20monitoring%20online%20brand%20reputation%2C%20social%20media%20comments%20and%20reviews%20on%20screen%2C%20crisis%20management%2C%20professional%20office%2C%20warm%20lighting%2C%20clean%20background&width=400&height=300&seq=10&orientation=landscape"
+          },
+          {
+            "title" : "Publicité en ligne (Google Ads)",
+            "description" : "Apprenez à créer des campagnes publicitaires efficaces sur Google.",
+            "duration": "3 mois",
+            "videos": 10,
+            "isPopular": true,
+            "isRecent": false,
+            "image" : "https://readdy.ai/api/search-image?query=African%20digital%20marketer%20analyzing%20Google%20Ads%20campaign%20performance%20on%20computer%20screen%2C%20charts%20and%20metrics%20visible%2C%20professional%20office%20setting%2C%20warm%20lighting%2C%20clean%20background&width=400&height=300&seq=6&orientation=landscape"
+          },
+          {
+            "title" : "Gestion de la réputation en ligne",
+            "description" : "Apprenez à gérer votre réputation en ligne.",
+            "duration": "4 mois",
+            "videos": 12,
+            "isPopular": true,
+            "isRecent": false,
+            "image" :"https://readdy.ai/api/search-image?query=African%20professional%20monitoring%20online%20brand%20reputation%2C%20social%20media%20comments%20and%20reviews%20on%20screen%2C%20crisis%20management%2C%20professional%20office%2C%20warm%20lighting%2C%20clean%20background&width=400&height=300&seq=10&orientation=landscape"
+          }
+        ],
+        "isPopular": true,
+        "isRecent": true
+      },
+      {
+        "title": "Finance & Comptabilité",
+        "count": 24,
+        "icon": "fa-chart-line",
+        "image":
+          "https://readdy.ai/api/search-image?query=Modern%2520African%2520finance%2520training%2520facility%2520with%2520students%2520working%2520with%2520financial%2520data%252C%2520professional%2520accounting%2520software%2520on%2520screens%252C%2520clean%2520business%2520environment&width=300&height=200&seq=domain15&orientation=landscape",
+        "formations": [
+          {
+            "title": "Comptabilité de base",
+            "description": "Apprenez les principes fondamentaux de la comptabilité.",
+            "duration": "3 mois",
+            "videos": 10,
+            "isPopular": true,
+            "isRecent": false,
+            "image": "https://readdy.ai/api/search-image?query=African%20accountant%20working%20with%20financial%20documents%2C%20calculator%2C%20ledger%20books%2C%20professional%20office%20environment%2C%20warm%20lighting%2C%20clean%20background&width=400&height=300&seq=11&orientation=landscape"
+          },
+          {
+            "title": "Gestion financière d'entreprise",
+            "description": "Découvrez les techniques de gestion financière pour les entreprises.",
+            "duration": "4 mois",
+            "videos": 12,
+            "isPopular": true,
+            "isRecent": false,
+            "image": "https://readdy.ai/api/search-image?query=African%20financial%20manager%20reviewing%20company%20financial%20reports%2C%20budget%20planning%2C%20professional%20meeting%20room%2C%20business%20charts%2C%20warm%20lighting%2C%20clean%20background&width=400&height=300&seq=12&orientation=landscape"
+          },
+          {
+            "title": "Audit financier",
+            "description": "Apprenez les techniques d'audit financier pour les entreprises.",
+            "duration": "3 mois",
+            "videos": 10,
+            "isPopular": true,
+            "isRecent": false,
+            "image": "https://readdy.ai/api/search-image?query=African%20auditor%20examining%20financial%20documents%20with%20magnifying%20glass%2C%20spreadsheets%2C%20professional%20office%20setting%2C%20financial%20audit%20in%20progress%2C%20warm%20lighting%2C%20clean%20background&width=400&height=300&seq=13&orientation=landscape"
+          },
+          {
+            "title": "Analyse des états financiers",
+            "description": "Découvrez les techniques d'analyse des états financiers.",
+            "duration": "4 mois",
+            "videos": 12,
+            "isPopular": true,
+            "isRecent": false,
+            "image": "https://readdy.ai/api/search-image?query=African%20financial%20analyst%20studying%20financial%20statements%2C%20graphs%20and%20charts%2C%20professional%20office%20environment%2C%20financial%20reports%20spread%20on%20desk%2C%20warm%20lighting%2C%20clean%20background&width=400&height=300&seq=14&orientation=landscape"
+          },
+          {
+            "title": "Fiscalité des entreprises",
+            "description": "Apprenez les bases de la fiscalité des entreprises.",
+            "duration": "3 mois",
+            "videos": 10,
+            "isPopular": true,
+            "isRecent": false,
+            "image": "https://readdy.ai/api/search-image?query=African%20tax%20consultant%20explaining%20corporate%20tax%20documents%20to%20client%2C%20tax%20forms%2C%20professional%20office%20setting%2C%20business%20meeting%2C%20warm%20lighting%2C%20clean%20background&width=400&height=300&seq=15&orientation=landscape"
+          },
+          {
+            "title": "Gestion des investissements",
+            "description": "Découvrez les techniques de gestion des investissements.",
+            "duration": "4 mois",
+            "videos": 12,
+            "isPopular": true,
+            "isRecent": false,
+            "image": "https://readdy.ai/api/search-image?query=African%20investment%20manager%20analyzing%20investment%20portfolios%20on%20computer%2C%20stock%20market%20charts%2C%20professional%20office%20environment%2C%20investment%20planning%2C%20warm%20lighting%2C%20clean%20background&width=400&height=300&seq=16&orientation=landscape"
+          },
+          {
+            "title": "Techniques de gestion de trésorerie",
+            "description": "Apprenez les techniques de gestion de trésorerie pour les entreprises.",
+            "duration": "3 mois",
+            "videos": 10,
+            "isPopular": true,
+            "isRecent": false,
+            "image": "https://readdy.ai/api/search-image?query=African%20financial%20controller%20working%20on%20cash%20flow%20management%2C%20financial%20forecasting%20charts%20on%20screen%2C%20professional%20office%20setting%2C%20warm%20lighting%2C%20clean%20background&width=400&height=300&seq=17&orientation=landscape"
+          },
+          {
+            "title": "Comptabilité analytique",
+            "description": "Découvrez les techniques de comptabilité analytique.",
+            "duration": "4 mois",
+            "videos": 12,
+            "isPopular": true,
+            "isRecent": false,
+            "image": "https://readdy.ai/api/search-image?query=African%20cost%20accountant%20analyzing%20cost%20structures%20and%20profit%20margins%2C%20spreadsheets%20with%20data%2C%20professional%20office%20environment%2C%20warm%20lighting%2C%20clean%20background&width=400&height=300&seq=18&orientation=landscape"
+          },
+          {
+            "title": "Investissement en bourse",
+            "description": "Apprenez les bases de l'investissement en bourse.",
+            "duration": "3 mois",
+            "videos": 10,
+            "isPopular": true,
+            "isRecent": false,
+            "image": "https://readdy.ai/api/search-image?query=African%20stock%20trader%20analyzing%20stock%20market%20trends%20on%20multiple%20screens%2C%20trading%20charts%2C%20professional%20trading%20desk%2C%20investment%20analysis%2C%20warm%20lighting%2C%20clean%20background&width=400&height=300&seq=19&orientation=landscape"
+          },
+          {
+            "title": "Création et gestion d'entreprise",
+            "description": "Découvrez les techniques de création et de gestion d'entreprise.",
+            "duration": "4 mois",
+            "videos": 12,
+            "isPopular": true,
+            "isRecent": false,
+            "image":  "https://readdy.ai/api/search-image?query=African%20entrepreneur%20planning%20business%20strategy%2C%20business%20plan%20documents%2C%20financial%20projections%2C%20modern%20office%20space%2C%20startup%20environment%2C%20warm%20lighting%2C%20clean%20background&width=400&height=300&seq=20&orientation=landscape"
+          }
+        ],
+        "isPopular": false,
+        "isRecent": false
+      },
+      {
+        "title": "Éducation & Pédagogie",
+        "count": 19,
+        "icon": "fa-graduation-cap",
+        "image":
+             "https://readdy.ai/api/search-image?query=Modern%2520African%2520teacher%2520training%2520classroom%2520with%2520educational%2520materials%252C%2520students%2520practicing%2520teaching%2520methods%252C%2520bright%2520learning%2520environment%252C%2520professional%2520education%2520setting&width=300&height=200&seq=domain16&orientation=landscape",
+        "formations": [
+          {
+            "title": "Pédagogie active",
+            "description": "Découvrez les méthodes d'enseignement actives pour engager vos élèves.",
+            "duration": "4 mois",
+            "videos": 12,
+            "isPopular": true,
+            "isRecent": false,
+            "image": "https://readdy.ai/api/search-image?query=African%20teacher%20facilitating%20active%20learning%20in%20classroom%2C%20students%20engaged%20in%20group%20activities%2C%20colorful%20classroom%20environment%2C%20educational%20setting%2C%20warm%20lighting%2C%20clean%20background&width=400&height=300&seq=21&orientation=landscape"
+          },
+          {
+            "title": "Psychologie de l'enfant",
+            "description": "Apprenez les bases de la psychologie de l'enfant pour mieux comprendre vos élèves.",
+            "duration": "3 mois",
+            "videos": 10,
+            "isPopular": true,
+            "isRecent": false,
+            "image": "https://readdy.ai/api/search-image?query=African%20child%20psychologist%20observing%20children%20playing%2C%20taking%20notes%2C%20developmental%20assessment%2C%20professional%20educational%20setting%2C%20warm%20lighting%2C%20clean%20background&width=400&height=300&seq=22&orientation=landscape"
+          },
+          {
+            "title": "Didactique des langues",
+            "description": "Découvrez les méthodes d'enseignement des langues étrangères.",
+            "duration": "4 mois",
+            "videos": 12,
+            "isPopular": true,
+            "isRecent": false,
+            "image": "https://readdy.ai/api/search-image?query=African%20language%20teacher%20using%20interactive%20methods%20to%20teach%20foreign%20language%2C%20language%20learning%20materials%2C%20classroom%20setting%20with%20language%20posters%2C%20warm%20lighting%2C%20clean%20background&width=400&height=300&seq=23&orientation=landscape"
+          },
+          {
+            "title": "Gestion de classe",
+            "description": "Apprenez à gérer efficacement votre classe.",
+            "duration": "3 mois",
+            "videos": 10,
+            "isPopular": true,
+            "isRecent": false,
+            "image": "https://readdy.ai/api/search-image?query=African%20teacher%20managing%20diverse%20classroom%2C%20students%20raising%20hands%2C%20organized%20classroom%20environment%2C%20educational%20setting%2C%20warm%20lighting%2C%20clean%20background&width=400&height=300&seq=24&orientation=landscape"
+          },
+          {
+            "title": "Éducation inclusive",
+            "description": "Découvrez les techniques d'éducation inclusive pour tous les élèves.",
+            "duration": "4 mois",
+            "videos": 12,
+            "isPopular": true,
+            "isRecent": false,
+            "image":  "https://readdy.ai/api/search-image?query=African%20special%20education%20teacher%20working%20with%20diverse%20group%20of%20students%2C%20inclusive%20classroom%20setting%2C%20adaptive%20learning%20materials%2C%20warm%20lighting%2C%20clean%20background&width=400&height=300&seq=25&orientation=landscape"
+          },
+          {
+            "title": "Techniques d'enseignement en ligne",
+            "description": "Apprenez à enseigner efficacement en ligne.",
+            "duration": "3 mois",
+            "videos": 10,
+            "isPopular": true,
+            "isRecent": false,
+            "image":  "https://readdy.ai/api/search-image?query=African%20online%20educator%20teaching%20virtual%20class%20on%20computer%2C%20digital%20learning%20platform%2C%20home%20office%20setup%2C%20educational%20technology%2C%20warm%20lighting%2C%20clean%20background&width=400&height=300&seq=26&orientation=landscape"
+          },
+          {
+            "title": "Conception de matériel pédagogique",
+            "description": "Découvrez les techniques de conception de matériel pédagogique.",
+            "duration": "4 mois",
+            "videos": 12,
+            "isPopular": true,
+            "isRecent": false,
+            "image":  "https://readdy.ai/api/search-image?query=African%20educational%20designer%20creating%20teaching%20materials%2C%20colorful%20educational%20resources%2C%20creative%20workspace%2C%20curriculum%20development%2C%20warm%20lighting%2C%20clean%20background&width=400&height=300&seq=27&orientation=landscape"
+          },
+          {
+            "title": "Pédagogie Montessori",
+            "description": "Apprenez les principes de la pédagogie Montessori.",
+            "duration": "3 mois",
+            "videos": 10,
+            "isPopular": true,
+            "isRecent": false,
+            "image":  "https://readdy.ai/api/search-image?query=African%20Montessori%20teacher%20guiding%20children%20with%20Montessori%20materials%2C%20prepared%20environment%2C%20hands-on%20learning%20activities%2C%20educational%20setting%2C%20warm%20lighting%2C%20clean%20background&width=400&height=300&seq=28&orientation=landscape"
+          },
+          {
+            "title": "Développement des compétences socio-émotionnelles",
+            "description": "Découvrez les techniques pour développer les compétences socio-émotionnelles des élèves.",
+            "duration": "4 mois",
+            "videos": 12,
+            "isPopular": true,
+            "isRecent": false,
+            "image":  "https://readdy.ai/api/search-image?query=African%20teacher%20facilitating%20emotional%20intelligence%20activities%20with%20students%2C%20social%20skills%20development%2C%20classroom%20circle%20time%2C%20educational%20setting%2C%20warm%20lighting%2C%20clean%20background&width=400&height=300&seq=29&orientation=landscape"
+          },
+          {
+            "title": "Formation des formateurs",
+            "description": "Apprenez à former d'autres enseignants.",
+            "duration": "3 mois",
+            "videos": 10,
+            "isPopular": true,
+            "isRecent": false,
+            "image":   "https://readdy.ai/api/search-image?query=African%20professional%20trainer%20conducting%20workshop%20for%20adult%20educators%2C%20training%20session%2C%20professional%20development%2C%20educational%20setting%2C%20warm%20lighting%2C%20clean%20background&width=400&height=300&seq=30&orientation=landscape"
+          }
+        ],
+        "isPopular": false,
+        "isRecent": false
+      }
+    ]
+  }
+  
