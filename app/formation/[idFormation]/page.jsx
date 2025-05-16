@@ -4,6 +4,7 @@ import FooterComponent from "@/src/components/footer/FooterComponent";
 import HeaderComponet from "@/src/components/header/HeaderComponet";
 import { searchPlaylists } from "@/src/libs/youtubData";
 import { use, useEffect, useState } from "react";
+import Script from "next/script";
 
 export default function PlaylistePage({params}) {
   const [videos, setVideos] = useState([]);
@@ -78,6 +79,22 @@ const formations = data.domaines.flatMap((domaine) =>
 
   return (
      <div className="min-h-screen bg-white">
+      <Script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{
+          __html: JSON.stringify({
+            "@context": "https://schema.org",
+            "@type": "Course",
+            "name": query,
+            "description": description,
+            "provider": {
+              "@type": "Organization",
+              "name": "SkillAfrik",
+              "url": "https://skillafrik-seven.vercel.app/formation/"+idFormations
+            }
+          }),
+        }}
+      />
        <HeaderComponet />
        <main>
          <div className="bg-gradient-to-r from-[#FF6B35] to-[#4c8caf] pt-20 pb-16">

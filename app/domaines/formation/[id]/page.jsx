@@ -46,6 +46,22 @@ export default function Page({ params }) {
 
   return (
     <>
+    <Script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{
+          __html: JSON.stringify({
+            "@context": "https://schema.org",
+            "@type": "Course",
+            "name": decodeURIComponent(id).replace(/-/g, " "),
+            "description": description,
+            "provider": {
+              "@type": "Organization",
+              "name": "SkillAfrik",
+              "url": "https://skillafrik-seven.vercel.app/domaines/formation/"+decodeURIComponent(id)
+            }
+          }),
+        }}
+      />
       <FormationDetailPage param={params} />
     </>
   )

@@ -6,6 +6,7 @@ import DescripionComp from "@/src/components/Youtub/DescripionComp";
 import VideoWithComments from "@/src/components/Youtub/VideoWithComments ";
 import { getPlaylistItems } from "@/src/libs/youtubData";
 import Link from "next/link";
+import Script from "next/script";
 import { use, useEffect, useState } from "react";
 import ReactPlayer from "react-player/youtube";
 
@@ -60,6 +61,22 @@ export default function ListeVideoPage({ params }) {
 
   return (
     <div className="bg-gray-50 text-gray-900">
+       <Script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{
+          __html: JSON.stringify({
+            "@context": "https://schema.org",
+            "@type": "Course",
+            "name": query,
+            "description": description,
+            "provider": {
+              "@type": "Organization",
+              "name": "SkillAfrik",
+              "url": "https://skillafrik-seven.vercel.app/lecture/"+idFormations+"/"+idVideos
+            }
+          }),
+        }}
+      />
       <HeaderComponet />
       {/* Course Banner */}
       <main>
