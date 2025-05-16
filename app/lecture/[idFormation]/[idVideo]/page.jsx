@@ -264,7 +264,7 @@ export default function ListeVideoPage({ params }) {
           </div>
         </div>
 
-        {/* <AdBanner /> */}
+        <AdBanner />
       </main>
       <FooterComponent />
     </div>
