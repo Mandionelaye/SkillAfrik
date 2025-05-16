@@ -2,7 +2,7 @@
 export const dynamic = 'force-dynamic';
 
 export async function generateMetadata({ params }) {
-   const { idFormation, idVideo } = params;
+   const { idFormation, idVideo } = (await params) || params;
    const idFormations = decodeURIComponent(idFormation);
    const idVideos = decodeURIComponent(idVideo);
    const query = idFormations.replace(/-/g, " ");

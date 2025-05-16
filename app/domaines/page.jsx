@@ -1,9 +1,7 @@
 "use client";
 import FooterComponent from "@/src/components/footer/FooterComponent";
 import HeaderComponet from "@/src/components/header/HeaderComponet";
-import { NextSeo } from "next-seo";
 import Link from "next/link";
-import Script from "next/script";
 import { useEffect, useState } from "react";
 
 

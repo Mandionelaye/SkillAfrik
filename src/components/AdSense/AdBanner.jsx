@@ -1,16 +1,26 @@
-import React, { useEffect } from 'react';
+"use client";
+import { useEffect, useRef } from 'react';
 
 function AdBanner() {
+ const adRef = useRef(null);
+
   useEffect(() => {
-    try {
-      (window.adsbygoogle = window.adsbygoogle || []).push({});
-    } catch (e) {
-      console.error("Erreur pub :", e);
+    if (adRef.current) {
+      const alreadyRendered = adRef.current.getAttribute('data-adsbygoogle-status') === 'done';
+
+      if (!alreadyRendered) {
+        try {
+          (window.adsbygoogle = window.adsbygoogle || []).push({});
+        } catch (e) {
+          console.error('AdSense push error:', e);
+        }
+      }
     }
   }, []);
 
   return (
   <ins
+     ref={adRef}
      className="adsbygoogle"
      style={{ display: 'block' }}
      data-ad-client="ca-pub-2510660773997180"
