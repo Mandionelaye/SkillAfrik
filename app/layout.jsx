@@ -51,6 +51,7 @@ export default function RootLayout({ children }) {
           sizes="<generated>"
         />
        <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css" rel="stylesheet" />
+       
        <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-2510660773997180"
      crossorigin="anonymous"></script>
 
@@ -71,9 +72,6 @@ export default function RootLayout({ children }) {
             page_path: window.location.pathname,
           });
         `}</Script>
-
-     <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"
-     data-ad-client="ca-pub-2510660773997180"></script>
       </head>
       <body
         className={`${geistSans.variable} ${geistMono.variable} antialiased`}

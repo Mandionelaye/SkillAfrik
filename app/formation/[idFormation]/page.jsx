@@ -5,6 +5,7 @@ import HeaderComponet from "@/src/components/header/HeaderComponet";
 import { searchPlaylists } from "@/src/libs/youtubData";
 import { use, useEffect, useState } from "react";
 import Script from "next/script";
+import AdBanner from "@/src/components/AdSense/AdBanner";
 
 export default function PlaylistePage({params}) {
   const [videos, setVideos] = useState([]);
@@ -180,6 +181,7 @@ const formations = data.domaines.flatMap((domaine) =>
           )}
         </div>
       </section>
+      <AdBanner />
       </main>
        <FooterComponent />
     </div>
