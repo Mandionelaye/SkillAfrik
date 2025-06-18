@@ -1,4 +1,5 @@
 "use client";
+import AdBanner from "@/src/components/AdSense/AdBanner";
 import FooterComponent from "@/src/components/footer/FooterComponent";
 import HeaderComponet from "@/src/components/header/HeaderComponet";
 import Link from "next/link";
@@ -172,6 +173,8 @@ export default function DomainePage() {
         </div>
       </div>
       </main>
+      
+        <AdBanner />
        <FooterComponent />
     </div>
   )

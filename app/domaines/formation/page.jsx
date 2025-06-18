@@ -3,6 +3,7 @@ import Link from "next/link";
 import FooterComponent from "@/src/components/footer/FooterComponent";
 import HeaderComponet from "@/src/components/header/HeaderComponet";
 import { useEffect, useState } from "react";
+import AdBanner from "@/src/components/AdSense/AdBanner";
 
 
 export default function FormationPage() {
@@ -251,7 +252,8 @@ export default function FormationPage() {
               </nav>
             </div>
           </section>
-                      
+            
+        <AdBanner />
            </main>
           <FooterComponent />
     </div>

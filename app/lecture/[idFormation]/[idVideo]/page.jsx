@@ -1,5 +1,4 @@
 "use client";
-import AdBanner from "@/src/components/AdSense/AdBanner";
 import FooterComponent from "@/src/components/footer/FooterComponent";
 import HeaderComponet from "@/src/components/header/HeaderComponet";
 import DescripionComp from "@/src/components/Youtub/DescripionComp";
@@ -264,7 +263,6 @@ export default function ListeVideoPage({ params }) {
           </div>
         </div>
 
-        <AdBanner />
       </main>
       <FooterComponent />
     </div>

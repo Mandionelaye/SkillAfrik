@@ -4,6 +4,7 @@ import FooterComponent from "@/src/components/footer/FooterComponent";
 import HeaderComponet from "@/src/components/header/HeaderComponet";
 import HeaderSeoComp from "@/src/components/SEO/HeaderSeoComp";
 import { use, useEffect, useState } from "react";
+import AdBanner from "@/src/components/AdSense/AdBanner";
 
 export default function FormationDetailPage({ param }) {
   const [searchQuery, setSearchQuery] = useState("");
@@ -181,6 +182,8 @@ export default function FormationDetailPage({ param }) {
           )}
                 </div>
           </section>
+          
+        <AdBanner />
           </main>
         <FooterComponent />
     </div>
