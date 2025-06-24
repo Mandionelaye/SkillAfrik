@@ -79,6 +79,15 @@
             "isRecent": true,
             "image" : "https://readdy.ai/api/search-image?query=Git%20and%20GitHub%20workspace%20showing%20version%20control%20interface%20and%20collaborative%20coding.%20African-inspired%20office%20with%20subtle%20mud%20cloth%20patterns%20in%20the%20background.%20Professional%20development%20environment%20with%20warm%20lighting%20and%20earthy%20tones.%20Educational%20setting%20with%20multiple%20screens.&width=600&height=400&seq=8&orientation=landscape"
           },
+           {
+            "title" : "Base du développement mobile avec Flutter",
+            "description" : "Créez des applications mobiles multiplateformes avec Flutter, un framework framework open-source de Google.",
+            "duration": "4 mois",
+            "videos": 18,
+            "isPopular": true,
+            "isRecent": true,
+            "image" : "https://readdy.ai/api/search-image?query=Mobile%20app%20development%20workspace%20with%20React%20Native%20code%20on%20screens%20and%20mobile%20devices%20for%20testing.%20African-inspired%20office%20with%20subtle%20kente%20patterns%20in%20the%20background.%20Professional%2C%20clean%20setup%20with%20warm%20lighting%20and%20earthy%20tones.%20Educational%20setting%20focusing%20on%20mobile%20development.&width=600&height=400&seq=6&orientation=landscape"
+          },
           {
             "title" : "Bases de données avec MySQL et MongoDB",
             "description" : "Apprenez à gérer des bases de données relationnelles et non relationnelles avec MySQL et MongoDB.",
