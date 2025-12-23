@@ -12,7 +12,7 @@
     "firebase": "^11.7.3",
     "google-adsense": "^1.1.7",
     "idb": "^8.0.3",
-    "next": "15.3.2",
+    "next": "15.3.8",
     "next-seo": "^6.6.0",
     "react": "^19.0.0",
     "react-adsense": "^0.1.0",
