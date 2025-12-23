@@ -121,6 +121,279 @@
         "isRecent": true
       },
       {
+        "title": "Intelligence Artificielle (IA)",
+        "count": 27,
+        "icon": "fa-robot",
+        "image": "https://www.freepik.com/free-photo/tech-support-oversees-ai-neural-network_134855678.htm#fromView=search&page=1&position=0&uuid=8f580f2c-2ebe-4a53-812e-882069553a26&query=Intelligence+Artificielle+%28IA%29",
+        "formations": [
+          {
+            "title": "Introduction à l'IA et aux LLM",
+            "description": "Découvrez les bases de l'intelligence artificielle et des modèles de langage modernes comme ChatGPT.",
+            "duration": "2 mois",
+            "videos": 12,
+            "isPopular": true,
+            "isRecent": true,
+            "image": "https://readdy.ai/api/search-image?query=African%20AI%20trainer%20explaining%20large%20language%20models%20on%20digital%20screen%2C%20modern%20tech%20lab%20with%20African%20decor%2C%20students%20engaged%20in%20learning%2C%20professional%20educational%20setting&width=600&height=400&seq=1&orientation=landscape"
+          },
+          {
+            "title": "Prompt Engineering Avancé",
+            "description": "Apprenez à formuler des prompts efficaces pour maximiser les résultats des IA conversationnelles.",
+            "duration": "3 mois",
+            "videos": 15,
+            "isPopular": true,
+            "isRecent": true,
+            "image": "https://readdy.ai/api/search-image?query=African%20tech%20professional%20demonstrating%20prompt%20engineering%20techniques%20on%20computer%2C%20AI%20responses%20visible%20on%20screen%2C%20modern%20workspace%20with%20traditional%20elements&width=600&height=400&seq=2&orientation=landscape"
+          },
+          {
+            "title": "IA pour la Création de Contenu",
+            "description": "Utilisez l'IA pour générer du texte, des images et des vidéos pour vos projets créatifs.",
+            "duration": "3 mois",
+            "videos": 14,
+            "isPopular": true,
+            "isRecent": true,
+            "image": "https://readdy.ai/api/search-image?query=African%20content%20creator%20using%20AI%20tools%20to%20generate%20visual%20and%20text%20content%2C%20multiple%20screens%20showing%20AI-generated%20art%2C%20creative%20studio%20environment&width=600&height=400&seq=3&orientation=landscape"
+          },
+          {
+            "title": "Automatisation avec l'IA",
+            "description": "Apprenez à automatiser des tâches répétitives grâce à des outils d'intelligence artificielle.",
+            "duration": "4 mois",
+            "videos": 18,
+            "isPopular": true,
+            "isRecent": true,
+            "image": "https://readdy.ai/api/search-image?query=African%20business%20professional%20automating%20workflows%20with%20AI%20tools%2C%20dashboard%20showing%20automated%20processes%2C%20modern%20office%20with%20African%20design%20elements&width=600&height=400&seq=4&orientation=landscape"
+          },
+          {
+            "title": "Éthique et Responsabilité de l'IA",
+            "description": "Comprenez les enjeux éthiques et les responsabilités liés à l'utilisation de l'intelligence artificielle.",
+            "duration": "2 mois",
+            "videos": 10,
+            "isPopular": true,
+            "isRecent": true,
+            "image": "https://readdy.ai/api/search-image?query=African%20AI%20ethics%20panel%20discussion%20in%20modern%20conference%20room%2C%20diverse%20professionals%20debating%20ethical%20issues%2C%20professional%20educational%20setting&width=600&height=400&seq=5&orientation=landscape"
+          },
+          {
+            "title": "IA pour les Entreprises Africaines",
+            "description": "Découvrez comment les entreprises africaines peuvent intégrer l'IA pour améliorer leurs opérations.",
+            "duration": "4 mois",
+            "videos": 16,
+            "isPopular": true,
+            "isRecent": true,
+            "image": "https://readdy.ai/api/search-image?query=African%20entrepreneurs%20implementing%20AI%20solutions%20in%20business%20operations%2C%20team%20analyzing%20data%20dashboards%2C%20modern%20African%20corporate%20environment&width=600&height=400&seq=6&orientation=landscape"
+          },
+          {
+            "title": "Développement avec des API d'IA",
+            "description": "Apprenez à intégrer des API d'IA comme OpenAI dans vos applications web et mobiles.",
+            "duration": "3 mois",
+            "videos": 15,
+            "isPopular": true,
+            "isRecent": true,
+            "image": "https://readdy.ai/api/search-image?query=African%20developer%20coding%20with%20AI%20APIs%20on%20computer%20screen%2C%20code%20editor%20showing%20API%20integration%2C%20modern%20tech%20workspace&width=600&height=400&seq=7&orientation=landscape"
+          },
+          {
+            "title": "IA pour l'Éducation et la Formation",
+            "description": "Utilisez l'IA pour créer des expériences d'apprentissage personnalisées et innovantes.",
+            "duration": "3 mois",
+            "videos": 14,
+            "isPopular": true,
+            "isRecent": true,
+            "image": "https://readdy.ai/api/search-image?query=African%20educator%20using%20AI-powered%20learning%20platform%20with%20students%2C%20personalized%20learning%20interface%20on%20tablet%2C%20modern%20classroom%20setting&width=600&height=400&seq=8&orientation=landscape"
+          },
+          {
+            "title": "Futur des Métiers et Compétences IA",
+            "description": "Préparez-vous aux métiers de demain en développant des compétences en intelligence artificielle.",
+            "duration": "2 mois",
+            "videos": 12,
+            "isPopular": true,
+            "isRecent": true,
+            "image": "https://readdy.ai/api/search-image?query=African%20career%20advisor%20discussing%20future%20AI%20jobs%20with%20students%2C%20digital%20screen%20showing%20emerging%20career%20paths%2C%20modern%20career%20center%20environment&width=600&height=400&seq=9&orientation=landscape"
+          }
+        ],
+        "isPopular": true,
+        "isRecent": true
+      },
+      {
+        "title": "Business & Richesse",
+        "count": 35,
+        "icon": "fa-money-bill-trend-up",
+        "image": "https://readdy.ai/api/search-image?query=Modern%20African%20business%20success%20training%20center%2C%20entrepreneurs%20discussing%20wealth%20creation%20strategies%2C%20financial%20charts%20on%20screens%2C%20professional%20luxury%20environment&width=300&height=200&seq=domain18&orientation=landscape",
+        "formations": [
+          {
+            "title": "Comment Devenir Riche en Partant de Zéro",
+            "description": "Stratégies éprouvées pour créer de la richesse avec peu de ressources initiales.",
+            "duration": "4 mois",
+            "videos": 20,
+            "isPopular": true,
+            "isRecent": true,
+            "image": "https://readdy.ai/api/search-image?query=African%20entrepreneur%20sharing%20wealth%20creation%20journey%20from%20humble%20beginnings%2C%20motivational%20speaking%20event%2C%20modern%20conference%20hall%20with%20African%20decor&width=600&height=400&seq=1&orientation=landscape"
+          },
+          {
+            "title": "Gagner de l'Argent sur Internet",
+            "description": "Découvrez les méthodes légitimes pour générer des revenus en ligne.",
+            "duration": "3 mois",
+            "videos": 16,
+            "isPopular": true,
+            "isRecent": true,
+            "image": "https://readdy.ai/api/search-image?query=Young%20African%20digital%20entrepreneur%20earning%20money%20online%20with%20multiple%20income%20streams%20visible%20on%20screens%2C%20modern%20home%20office%20setup&width=600&height=400&seq=2&orientation=landscape"
+          },
+          {
+            "title": "Investissement en Cryptomonnaies",
+            "description": "Comprenez le marché des cryptomonnaies et apprenez à investir intelligemment.",
+            "duration": "3 mois",
+            "videos": 15,
+            "isPopular": true,
+            "isRecent": true,
+            "image": "https://readdy.ai/api/search-image?query=African%20crypto%20investor%20analyzing%20bitcoin%20and%20altcoin%20charts%20on%20multiple%20monitors%2C%20modern%20trading%20station%20with%20African%20art%20elements&width=600&height=400&seq=3&orientation=landscape"
+          },
+          {
+            "title": "Bitcoin : Acheter, Vendre et Sécuriser",
+            "description": "Guide complet pour débuter avec Bitcoin en toute sécurité.",
+            "duration": "2 mois",
+            "videos": 12,
+            "isPopular": true,
+            "isRecent": true,
+            "image": "https://readdy.ai/api/search-image?query=African%20bitcoin%20expert%20explaining%20wallet%20security%20and%20trading%20strategies%2C%20digital%20interface%20showing%20bitcoin%20transactions%2C%20secure%20workspace&width=600&height=400&seq=4&orientation=landscape"
+          },
+          {
+            "title": "Affiliation et Marketing Digital",
+            "description": "Générez des revenus passifs grâce au marketing d'affiliation.",
+            "duration": "3 mois",
+            "videos": 14,
+            "isPopular": true,
+            "isRecent": true,
+            "image": "https://readdy.ai/api/search-image?query=African%20affiliate%20marketer%20managing%20multiple%20campaigns%20on%20computer%2C%20analytics%20dashboard%20showing%20commissions%2C%20professional%20home%20office&width=600&height=400&seq=5&orientation=landscape"
+          },
+          {
+            "title": "E-commerce et Dropshipping",
+            "description": "Créez votre boutique en ligne et vendez sans stock avec le dropshipping.",
+            "duration": "4 mois",
+            "videos": 18,
+            "isPopular": true,
+            "isRecent": true,
+            "image": "https://readdy.ai/api/search-image?query=African%20e-commerce%20entrepreneur%20managing%20dropshipping%20store%2C%20order%20fulfillment%20process%2C%20modern%20logistics%20setup%20with%20packaging&width=600&height=400&seq=6&orientation=landscape"
+          },
+          {
+            "title": "Mindset de la Richesse",
+            "description": "Développez la mentalité nécessaire pour attirer et conserver la richesse.",
+            "duration": "2 mois",
+            "videos": 10,
+            "isPopular": true,
+            "isRecent": true,
+            "image": "https://readdy.ai/api/search-image?query=African%20wealth%20coach%20conducting%20mindset%20training%20session%2C%20participants%20engaged%20in%20visualization%20exercises%2C%20luxury%20training%20facility&width=600&height=400&seq=7&orientation=landscape"
+          },
+          {
+            "title": "Investissement Immobilier en Afrique",
+            "description": "Stratégies pour investir dans l'immobilier africain à moindre risque.",
+            "duration": "4 mois",
+            "videos": 16,
+            "isPopular": true,
+            "isRecent": true,
+            "image": "https://readdy.ai/api/search-image?query=African%20real%20estate%20investor%20analyzing%20property%20market%20in%20African%20city%2C%20blueprints%20and%20financial%20projections%2C%20professional%20office%20setting&width=600&height=400&seq=8&orientation=landscape"
+          },
+          {
+            "title": "Business en Ligne à Temps Partiel",
+            "description": "Créez un business en ligne que vous pouvez gérer en parallèle de votre emploi.",
+            "duration": "3 mois",
+            "videos": 14,
+            "isPopular": true,
+            "isRecent": true,
+            "image": "https://readdy.ai/api/search-image?query=African%20professional%20managing%20side%20business%20from%20home%20office%20after%20work%20hours%2C%20balanced%20lifestyle%20setup%2C%20modern%20home%20workspace&width=600&height=400&seq=9&orientation=landscape"
+          }
+        ],
+        "isPopular": true,
+        "isRecent": true
+      },
+      {
+        "title": "Comptabilité Moderne",
+        "count": 23,
+        "icon": "fa-calculator",
+        "image": "https://readdy.ai/api/search-image?query=Modern%20African%20accounting%20office%20with%20digital%20tools%20and%20software%2C%20professionnels%20working%20with%20financial%20data%2C%20clean%20professional%20environment&width=300&height=200&seq=domain19&orientation=landscape",
+        "formations": [
+          {
+            "title": "Sage Comptabilité",
+            "description": "Maîtrisez le logiciel Sage pour la gestion comptable des entreprises.",
+            "duration": "3 mois",
+            "videos": 15,
+            "isPopular": true,
+            "isRecent": true,
+            "image": "https://readdy.ai/api/search-image?query=African%20accountant%20using%20Sage%20software%20for%20financial%20management%2C%20dashboard%20showing%20accounting%20reports%2C%20modern%20office%20environment&width=600&height=400&seq=1&orientation=landscape"
+          },
+          {
+            "title": "QuickBooks pour PME Africaines",
+            "description": "Apprenez à utiliser QuickBooks pour la comptabilité des petites et moyennes entreprises.",
+            "duration": "2 mois",
+            "videos": 12,
+            "isPopular": true,
+            "isRecent": true,
+            "image": "https://readdy.ai/api/search-image?query=African%20small%20business%20owner%20managing%20finances%20with%20QuickBooks%2C%20interface%20showing%20invoicing%20and%20expenses%2C%20home%20office%20setup&width=600&height=400&seq=2&orientation=landscape"
+          },
+          {
+            "title": "Excel Avancé pour Comptables",
+            "description": "Maîtrisez les fonctions avancées d'Excel pour l'analyse financière et la comptabilité.",
+            "duration": "3 mois",
+            "videos": 16,
+            "isPopular": true,
+            "isRecent": true,
+            "image": "https://readdy.ai/api/search-image?query=African%20accountant%20creating%20complex%20financial%20models%20in%20Excel%2C%20formulas%20and%20charts%20visible%2C%20professional%20workspace&width=600&height=400&seq=3&orientation=landscape"
+          },
+          {
+            "title": "Comptabilité Cloud avec Xero",
+            "description": "Gérez votre comptabilité en ligne avec la plateforme cloud Xero.",
+            "duration": "2 mois",
+            "videos": 10,
+            "isPopular": true,
+            "isRecent": true,
+            "image": "https://readdy.ai/api/search-image?query=African%20financial%20professional%20accessing%20Xero%20cloud%20accounting%20from%20tablet%20and%20laptop%2C%20remote%20work%20setup%2C%20modern%20cafe%20environment&width=600&height=400&seq=4&orientation=landscape"
+          },
+          {
+            "title": "Facturation Électronique et Dématérialisation",
+            "description": "Modernisez votre système de facturation avec des solutions électroniques.",
+            "duration": "2 mois",
+            "videos": 12,
+            "isPopular": true,
+            "isRecent": true,
+            "image": "https://readdy.ai/api/search-image?query=African%20business%20implementing%20electronic%20invoicing%20system%2C%20digital%20documents%20flow%2C%20paperless%20office%20environment&width=600&height=400&seq=5&orientation=landscape"
+          },
+          {
+            "title": "Audit Numérique",
+            "description": "Utilisez des outils numériques pour réaliser des audits comptables efficaces.",
+            "duration": "3 mois",
+            "videos": 14,
+            "isPopular": true,
+            "isRecent": true,
+            "image": "https://readdy.ai/api/search-image?query=African%20auditor%20conducting%20digital%20audit%20with%20specialized%20software%2C%20data%20analysis%20tools%20on%20screen%2C%20professional%20audit%20firm&width=600&height=400&seq=6&orientation=landscape"
+          },
+          {
+            "title": "Fiscalité Numérique",
+            "description": "Gérez vos obligations fiscales avec les outils numériques modernes.",
+            "duration": "3 mois",
+            "videos": 15,
+            "isPopular": true,
+            "isRecent": true,
+            "image": "https://readdy.ai/api/search-image?query=African%20tax%20consultant%20filing%20digital%20tax%20returns%20using%20online%20platform%2C%20government%20tax%20portal%20interface%2C%20professional%20consultation&width=600&height=400&seq=7&orientation=landscape"
+          },
+          {
+            "title": "Tableaux de Bord Financiers",
+            "description": "Créez des tableaux de bord interactifs pour le suivi financier de l'entreprise.",
+            "duration": "2 mois",
+            "videos": 12,
+            "isPopular": true,
+            "isRecent": true,
+            "image": "https://readdy.ai/api/search-image?query=African%20financial%20analyst%20designing%20interactive%20financial%20dashboard%2C%20KPIs%20and%20metrics%20visualization%2C%20modern%20business%20intelligence%20tools&width=600&height=400&seq=8&orientation=landscape"
+          },
+          {
+            "title": "Comptabilité pour Startups Tech",
+            "description": "Spécialisation en comptabilité adaptée aux startups technologiques africaines.",
+            "duration": "3 mois",
+            "videos": 14,
+            "isPopular": true,
+            "isRecent": true,
+            "image": "https://readdy.ai/api/search-image?query=African%20startup%20accountant%20managing%20finances%20for%20tech%20company%2C%20burn%20rate%20and%20funding%20metrics%2C%20modern%20startup%20office&width=600&height=400&seq=9&orientation=landscape"
+          }
+        ],
+        "isPopular": true,
+        "isRecent": true
+      },
+      {
         "title": "Agriculture",
         "count": 38,
         "icon": "fa-seedling",
